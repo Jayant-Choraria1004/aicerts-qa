@@ -1,0 +1,1755 @@
+@media screen and (max-width:1279px) {
+body { -webkit-text-size-adjust: none;}
+}
+
+@media screen and (max-width:1599px) {
+.h2_why_ai_certs_icons ul {gap: 20px;}
+.h2_aicerts_banner_wrap h2 {font-size: 40px;}
+.navbar-light .navbar-nav .nav-link {padding: 28px 10px;font-size: 14px;}
+.dropdown-item {font-size: 14px;}
+.bg-light {padding: 0 !important;}
+/*.midd-banner-slide { height: 560px; }*/
+
+.midd-banner-slide p {font-size: 20px;}
+.technology-section, .subscribe-section, .blogpost-section, .cert-spec-section, .ttm-spec-section {padding: 80px 0;}
+h2.cmn-hd {margin-bottom: 80px;}
+h2.cmn-hd span {font-size: 22px;}
+.certifications-cnt {padding: 32px;}
+.certifications-hd {font-size: 22px; margin-bottom: 30px;}
+.certifications-img {margin-bottom: 30px;}
+.training-hd, .tech-hd {font-size: 32px;}
+.training-partner-desc p {margin-bottom: 20px;}
+.technology-section {height: 500px;}
+.blog-card-hd {font-size: 22px;}
+.blog-desc {font-size: 18px;}
+.subscribe-hd {font-size: 32px;}
+.subscribe-hd span {font-size: 22px;}
+.viewall-btn {margin-top: 80px;}
+
+.certificate-details ul li {padding: 0 50px; font-size: 18px;}
+h2.inner-hd {font-size: 32px;}
+/*.cmn-section {padding: 80px 0;}*/
+.maintenance-section h2 {margin: 50px 0;}
+
+}
+
+@media screen and (min-width:1200px) and (max-width:1399.5px) {
+.testimonials_certi .col-lg-3 {width: 50%;}
+}
+
+@media screen and (min-width:1200px) and (max-width:1365px) {
+.navbar-light .navbar-nav .nav-link {padding: 28px 6px;}
+.btn {min-width: 120px; padding: 0 10px;}
+.top_banner-content h1 {font-size: 80px;}
+.line_with-logo {max-width: 890px;}
+.top_btn .btn {height: 50px; line-height: 50px; font-size: 23px;}
+.top_btn {max-width: 430px; padding: 20px 0px !important;}
+.date_location {font-size: 18px;}
+#countdown ul li span {font-size: 48px;}
+#countdown ul li {font-size: 16px;}
+
+}
+
+
+
+@media screen and (max-width:1440px) {
+.step_curve-2 {left: 32%;}
+.step_curve-4 {left: 72%;}
+
+
+
+/*============================================ Accreditation Page =============================================== */
+
+.h2_popular_certifications .owl-dots { top: 10px; }
+.h2_why_ai_certs_icons ul li { height: 60px; width: 60px; }
+.h2_blog_resource_tabs .nav-link { gap: 10px; }
+.h2_blog_resource_tabs li.nav-item { width: calc(50% - 20px); }
+.h2_partners_logo .owl-dots { top: 0; }
+.h2_get_certified .h2_aicerts_banner_wrap { padding: 50px 30px; }
+
+.accr-bannerimg .video-banner-cnt p{font-size:20px!important;color:#fff;font-weight:600;line-height:24px;width:70%}
+.accr-bannerimg .video-banner-cnt h1{font-size:66px;color:#fff;font-weight:700;line-height:82px!important}
+.accr-paragraph{padding-bottom:0px;}
+.mt-80px {margin-top:60px!important}
+
+.roadmap-sec h2.prog-cat-title {font-size: 28px;}
+.prog-popovers-card h4 {font-size: 18px;}
+
+.advisory-gform .gform-theme--framework .gform-field-label {font-size: 17px;}
+
+}
+
+
+@media screen and (max-width:1199px) {
+.h2_aicerts_banner_wrap h2 {font-size: 35px;}
+.h2_aicerts_banner_wrap {padding: 70px 50px;}
+.h2_aicerts_lab_wrap {justify-content: center;}
+.h2_blog_resource_tabs {gap: 20px;}
+.h2_blog_resource_tabs .nav-link {padding: 20px 15px; font-size: 16px;}
+.h2_blog_resource_tabs li.nav-item {width: calc(25% - 20px);}
+.step_curve-1 {left: 13%;}
+.step_curve-2 {left: 30%;}
+.step_curve-3 {left: 53%;}
+.step_curve-4 {left: 70%;}
+body {font-size: 15px;}
+.navbar-light .navbar-nav .nav-link {padding-left: 7px;padding-right: 7px;}
+.btn {min-width: 120px;}
+.midd-banner-slide .video_title {font-size: 58px;}
+.midd-banner-slide p {font-size: 24px;width: 60%;}
+.technology-section, .subscribe-section, .blogpost-section, .cert-spec-section, .ttm-spec-section {padding: 60px 0;}
+h2.cmn-hd {font-size: 30px;margin-bottom: 60px;}
+h2.cmn-hd span {font-size: 20px;}
+.certifications-cnt {padding: 25px;}
+.training-hd, .tech-hd {font-size: 28px; line-height: normal;}
+.training-partner-desc {padding-left: 0;}
+.blog-card-hd {font-size: 20px;}
+.blog-desc {font-size: 16px;}
+.viewall-btn {margin-top: 60px;}
+.subscribe-section {height: 450px;}
+ul.ftr-link li br {display: none;}
+.mission-value-box {padding: 20px 10px;}
+.team-section .mission-value-box {padding: 0;}
+.certified-icon {width: 180px;height: 180px;padding: 20px;}
+.midd-banner-slide:hover, .midd-inner-banner:hover {transform: scale(1); transition: none;}
+h1.cmn-hd, .certificate-banner-cnt h1 {font-size: 44px;line-height: 48px;}
+.corevalue-hd {line-height: 28px;min-height: inherit;}
+.certificate-details ul li {padding: 0 20px;font-size: 18px;}
+h2.inner-hd {font-size: 30px;}
+.navbar-light .navbar-toggler {margin-top: 17px;}
+.navbar-light .navbar-nav .nav-link.active {border-top: none;border-left: 5px solid var(--primary-color);}
+.navbar-light .navbar-nav .nav-link {padding: 10px;}
+.topright-btn {margin:30px 20px;position: relative;z-index: 999;text-align: right;}
+.dropdown-menu {box-shadow: none;border: 1px solid rgba(0, 0, 0, .1);border-radius: 6px;}
+.dropdown-menu li .dropdown-item {font-size: 14px;}
+/*.cmn-section {padding: 60px 0;}*/
+.dropend .dropdown-menu {max-height: 165px;}
+.dropdown:hover>.dropdown-menu, .dropend:hover>.dropdown-menu {margin-left: 1rem;display: none;}
+.dropdown .dropdown-menu.show {display: block;}
+.midd-banner-slide .video_title {font-size: 44px;line-height: 56px;}
+.banner-tags .btn {height: 34px;line-height: 32px;font-size: 13px;}
+.copyright .container {padding-top: 0;}
+.listing-pages {padding-bottom: 0;}
+.listing-pages h1 {margin-bottom: 30px;font-size: 54px;}
+.common-cnt {padding: 0 30px;}
+.common-cnt h2, h3.cmntitle {font-size: 26px;line-height: normal; margin-bottom: 20px;}
+.home-accordion .accordion-button, .cta-cnt-area p {font-size: 18px;}
+.cta-cnt-area {margin: 0 5%;}
+.cta-cnt-area h3 {font-size: 32px;}
+.cta-cnt-area h3 {margin-top: 100px;}
+.topright-btn a {margin-left: 7px;}
+.navbar-collapse {background: #000;margin: 0 -.75rem;padding: 0 15px;}
+.job-listing-section .nav-tabs .nav-link {margin-bottom: 15px;font-size: 16px;}
+.career-tabs .btn-outline:after {right: 17px;}
+.career-tabs .accordion-header img {width: 24px;}
+.career-tabs .accordion-header h2 {font-size: 16px;margin-right: 20px;padding-top: 7px;}
+.career-tabs .accordion-header h2 span {margin-bottom: 0;top: 0;}
+.career-tabs .accordion-header span {margin-bottom: 10px;position: relative;top: -10px;}
+.career-tabs .accordion-header .remote-icon span {margin-bottom:0; top:0;}
+.accordion-header .btn {white-space: nowrap;}
+.accordion-header div.ms-auto {padding-top: 10px;}
+.testimonial-section h2 {font-size: 34px;line-height: normal;}
+.midd-banner-slide:hover, .midd-inner-banner:hover {transform: scale(1);transition: none;}
+.evlevate_content h2 {font-size: 34px;line-height: normal;}
+.not-found {padding: 0 10%;}
+.sidebar-thumb-new {padding: 20px;}
+.top_banner-content h1 {font-size: 60px;}
+.line_with-logo {max-width: 670px;}
+.top_btn .btn {font-size: 20px;height: 48px;line-height: 48px;}
+.top_btn {max-width: 360px;}
+.date_location {font-size: 13px;}
+#countdown ul li span {font-size: 36px;}
+.testimonials_certi .col-lg-3 {width: 50%;}
+/*#tabSkills {padding-bottom: 0px;}*/
+.career_header {padding: 3rem 0px;}
+.certification-master {min-height: 400px;}
+.certification-master h1.cmn-hd {font-size: 40px;}
+
+
+/*======================================= labs ======================================= */
+
+.labsbanner h1 {font-size: 40px;}
+.labsbanner .brand_logo img {margin: 15px 0;max-width: 80%;}
+.labsbanner p {font-size: 18px;}
+.rich-text-video-content h3 {font-size: 22px;}
+.why-aircert-video .overaly_video-content {left: 0;}
+.why-aircert-video h1 {font-size: 48px;}
+.banner-video-section {min-height: 500px;}
+.video-banner-cnt h1 {font-size: 44px;}
+.video-banner-cnt p {font-size: 20px;}
+.video-banner-cnt {max-width: 400px;}
+.whypage-cmn-section.Mission_Vision h2 {font-size: 24px;}
+.Mission_Vision img {height: 60px;width: auto;}
+.mobile-search-panel {display: block;}
+.mobile-search-panel .search-form {display: none;}
+.mobile-search-panel .search-form.active, .mobile-search-panel .btn-search-close.active {display: block;}
+
+/* ======================================= Trademarks Page V3 ======================================= */
+.common-img-banner {height: auto; padding: 100px 0;}
+.tm-banner-cnt {max-width: 70%;}
+.tm-banner-cnt h1 {font-size: 48px;}
+.tm-banner-cnt p {font-size: 26px;}
+.tm-hd-section p {font-size: 20px;}
+.cmn-cta-cnt {padding: 80px 50px;}
+.ourtm-titlebar h2 {font-size: 28px;height: 60px;line-height: 60px !important;}
+.cmn-cta-cnt h3 {font-size: 26px;max-width: 80%;}
+
+/* Accreditations */
+
+.accr-bannerimg .video-banner-cnt h1 { font-size: 72px; color: white; font-weight: 700; line-height: 82px !important; } 
+.accr-bannerimg .video-banner-cnt p { font-size: 20px !important; color: white; font-weight: 600; line-height: 24px; width: 60%; } 
+.responsive { display: flex; align-items: center; margin-top: 100px0; } 
+.pb-30px { padding-bottom: 40px; } 
+.pb-50px { padding-bottom: 60px; } 
+.inline-btn { display: inline-flex !important; } 
+.wd-100 { width: 100%; } 
+.accr-step { position: absolute; bottom: 50%; left: 85%; } 
+.accr-isoiec-title { padding-top: 30px; font-size: 20px; font-weight: 500; line-height: 24px !important; text-align: start !important; margin-bottom: 10px; } 
+.mt-80 { margin-top: 60px; } 
+.accr-event-btn, .accr-event-contactus-btn {display:inline-block; padding: 12px 22px;} 
+.white_text_accr { line-height: 39px !important; color: white; font-size: 24px; font-weight: 700; } 
+.accr_event_photo {position:relative; bottom:0;} 
+.happy_to_help_wrap_accr {padding-bottom:0;} 
+.accr-second-section-image { padding-top: 0px; padding-bottom: 40px; } .inline-btn { display: inline-block !important; }
+.accr-commitment-box {padding:20px 35px 20px 20px;}
+.accr-ansti-title, .accr-ansti-title-para, .accr-commitment-title {/*padding-top:60px;*/}
+.accr-iso-iec .accr-ansti-title, .accr-ansti-title-para {padding:0;}
+.indextabs .cdv5-indextabs ul li a {font-size: 18px; padding: 10px 15px;}
+.Benefits_icon img {max-width: 50px; height: 50px;}
+.flex_item.Benefits_info h4 {font-size:22px;}
+.certi-listing-brief {padding:0 20px; bottom:20px;} 
+
+.op_outer.mx-lg-5 {margin:0 !important;}
+#search-suggetions {top: 52px; width: calc(100% - 100px);}
+
+/* ======================================= Product Videos V1 ======================================= */
+.pv1-banner .video-banner-cnt h1 {font-size: 44px;}
+.pv1-banner .video-banner-cnt p, .pv1-caro-card h3, .rv-card h3 {font-size: 24px;}
+.pv1-cmn-sec h2 {font-size: 32px;}
+.pv1-about-cnt p, .pv1-caro-card p, .rv-card p {font-size: 18px; line-height: normal; font-weight: 400;}
+
+/* ======================================= Advisory Board ======================================= */
+
+.ab-banner .video-banner-cnt h1 {font-size: 56px; max-width:600px;}
+.ab-banner .video-banner-cnt p {font-size: 26px;}
+
+.abplans-subtitle, .ab-cta-section p {font-size: 20px;}
+.ab_hero_sec {padding:40px 0;}
+.ab-whyaict-card {flex-direction: column;}
+
+.roadmap-sec h2.prog-cat-title {font-size: 22px;}
+
+
+/* ======================================= Exam Portal ======================================= */
+.JoinOurCertified .ctabanner-content h3 {font-size: 18px;}
+.Exam-Banner h1 { font-size: 36px;}
+.Exam-Banner h3 {font-size: 18px;}
+
+/* ======================================= AI+ Military ======================================= */
+.block_title_item p{font-size:14px;}
+.block_title_wrap{gap:15px;}
+.block_title_item{width:calc((20% - 15px) + 15px / 5);}
+.key_certification .btn{width:100%;}
+.testimonial_slider{padding-left:160px;background:url(../images/testimonial-title.svg) no-repeat center left 50px,linear-gradient(to right,var(--primary-color) 29%,transparent 20%);}
+.testimonial_slide_item{gap:30px;}
+.testimonial_detail{width:calc(100% - 330px);}
+.testimonial_detail h1{font-size:30px;}
+
+.eventscarousel .owl-nav .owl-prev {left:0;}
+.eventscarousel .owl-nav .owl-next {right:0;}
+.cmn-sliderdots.offsetarrow .owl-nav .owl-prev {left:-25px;}
+.cmn-sliderdots.offsetarrow .owl-nav .owl-next {right:-25px;}
+
+
+.aim-banner, .why_ai_military, .aim-block_title, .comprehensive_ai_training, .market_potential, .military_partnership, .aim_testimonial, .footer_hero_section {margin-bottom: 40px;}
+
+/* ======================================= Why Aicerts V2 ======================================= */
+.AreMostValued ul li.nav-item{flex: 0 0 27.5%;}
+
+.flip-card {width:calc((33.33% - 50px) + 50px / 3);}
+
+span.dashed-border{margin-top: -40px;}
+
+/* Token V1 */
+.toker-banner h1 {font-size: 36px;}
+.gs-top-left{left: 0px;}
+.gs-bottom-right{right: 0px;}
+.aictbanner .toker-banner div{z-index: 111;max-width:100%;}
+
+.toolsrow .toolcard {flex:0 calc(25% - 30px);}
+.ppcChallengesrow .ppcChallengescard {flex: 0 calc(50% - 18px);}
+
+
+.readmore-text {overflow: hidden; display: -webkit-box; -webkit-line-clamp: 3; /* Show only 3 lines */ -webkit-box-orient: vertical;}
+.readmore-content.expanded .readmore-text {-webkit-line-clamp: unset;}
+.readmore-btn {padding:0; background: none; border: none; text-decoration: underline; color:var(--primary-color); display:inline-block;}
+h1 {font-size: 32px;}
+h2 {font-size: 24px;}
+
+section.rc-banner .video-banner-cnt {max-width: 50%;}
+
+
+/* ======================================= AI Score Tool Form Page CSS Starts ======================================= */
+
+#ai-score-self-assessment-form .hero-section h3 { width: 100%; margin: 0 auto; text-align: center; color: var(--black-color); line-height: 35.3px !important; }
+#ai-score-self-assessment-form .questions-wraper .question-cards .card-item { width: 100%; margin-bottom: 20px}
+
+/* ======================================= AI Score Tool Form Page CSS Ends ======================================= */
+
+.is-sticky {top:74px;}
+
+.RoardCard::before, .RoardCard::after{left: 42px;}
+.MemberProfile{width: 250px; height: 250px;}
+.SlideImg{min-height: 400px;}
+
+.round-pointstop{margin-left: 23px;}
+.round-pointsbottom{margin-left: 23px;margin-bottom: -6px;}
+
+.post-type-tabs {gap:20px !important;}
+.post-type-tabs .post-type-tab {width:100%;}
+.vendor-banner .video-banner-cnt {max-width: 560px;}
+.footer-section img.navbar-logo {max-width: 210px;margin: 0px auto;}
+.TechParCard{padding-left: 10px;padding-right:10px;}
+
+}
+
+
+@media screen and (max-width:1023px) {
+body {font-size: 18px;}
+.midd-banner-slide p {font-size: 16px;}
+.technology-section, .subscribe-section, .blogpost-section, .cert-spec-section, .ttm-spec-section {padding: 50px 0;}
+h2.cmn-hd {font-size: 26px;margin-bottom: 50px;}
+h2.cmn-hd span {font-size: 18px;}
+.viewall-btn {margin-top: 50px;}
+.certifications-cnt p {min-height: 90px;}
+.navbar-toggler:focus {box-shadow: none;}
+.training-hd, .tech-hd {font-size: 22px;line-height: normal;}
+.technology-section {height: auto;}
+.blog-card {margin-bottom: 15px;}
+.col-lg-12.d-flex.align-items-center.justify-content-between {display: block !important;}
+.subscribe-l, .subscribe-r {width: 100%;}
+.subscribe-section {height: auto;}
+.subscribe-hd {margin-bottom: 50px;}
+.copyright {height: 70px; line-height: 70px; margin-top: 30px;}
+.logo-footer {margin-bottom: 20px;}
+.logo-footer img {width: 40%}
+.footer-section {padding-top: 30px;}
+.midd-inner-banner {min-height: 400px;}
+h1.cmn-hd, .certificate-banner-cnt h1 {font-size: 42px;line-height: 42px;}
+ul.trustedby-logos li img {max-width: 85%;}
+.social-icon a {margin-right: 7px;}
+.corevalue-hd {font-size: 22px;}
+p.bigfont {font-size: 22px;}
+.certificate-details ul li {padding: 0 10px;font-size: 14px;}
+.certificate-banner {min-height: 350px;}
+.certifciate-tab {margin-top: 30px;}
+h2.inner-hd {font-size: 26px;}
+.certification-img-hd {font-size: 20px;}
+.examination-structure-details h3 {font-size: 18px;}
+.cmn-section {padding: 40px 0;}
+.form-career .form-row {display: table; width: 100%;}
+.form-career .form-row .form-third {width: 100%; display: block; padding-bottom: 15px;}
+.footer-section .container {padding-top: 50px;}
+.copyright .container {padding-top: 0;}
+.listing-pages {padding-bottom: 0;}
+.listing-pages h1 {margin-bottom: 30px;font-size: 48px;line-height: normal;}
+.home-accordion .accordion-button, .cta-cnt-area p {font-size: 18px;}
+.common-cnt p {font-size: 18px;}
+.cta-cnt-area {margin: 0 50px;}
+.cta-bg-card {display: block;min-height: 400px;}
+.cta-cnt-area h3 {margin-top: 100px;}
+.footer-section {margin-top: 0px;padding-top: 0;}
+.ftr-newsletter {margin-top: 0;width: 100%;}
+.sidebar-thumb-new {display: none;}
+.sidebar-thumb-new.thumbnail-visible {display: block;top: 0;margin: 0;margin-bottom: 20px;}
+.cmn-section.team-section:first-child {padding-top: 0;}
+.indextabs ul li {margin-bottom: 10px;}
+.cdv5-examdetail .exam-cards .card {border-right:none;}
+/*.event_slider {margin-bottom:60px;}	*/
+
+
+/* ======================================= ANAB ======================================= */
+.anab-header1 {padding: 20px 0;}
+.anab-header1 h2 {font-size: 34px;}
+table.anab_table tr th {font-size: 18px;}
+table.anab_table tr td  {font-size: 16px;}
+
+
+.ab-meetup-card {padding:40px;}
+.ab-meetupimg {position: relative; left: 0; top: 0; height: 300px; width: 300px;}
+.ab-meetupimg-cnt {margin-top: -130px;}
+.ab-meetupimg-cnt h3 {padding-left:400px;}
+.ab-meetupimg-cnt p {margin-left:0; margin-top:50px;}
+section.rc-banner .video-banner-cnt {max-width: 100%;}
+
+
+}
+
+
+
+@media screen and (max-width:991.5px) {
+.indextabs {padding: 25px 0 15px 0;}
+.exam-cards .card h3 {font-size: 17px;}
+.exam-cards .card h3 span {font-size: 20px;margin-top: 3px;}
+.opp-slider .card h5 {font-size: 22px;}
+h2 {font-size: 33px;line-height: 1.3;}
+.h2_popular_certifications .owl-dots {top: 10px;}
+.h2_why_ai_certs_icons ul li {height: 60px;width: 60px;}
+.h2_blog_resource_tabs .nav-link {gap: 10px;}
+.h2_blog_resource_tabs li.nav-item {width: calc(50% - 20px);}
+.h2_partners_logo .owl-dots {top: 0;}
+.h2_get_certified .h2_aicerts_banner_wrap {padding: 50px 30px;}
+.resp-tabs-container {padding-top: 0;}
+.table-row.heading {display: none;}
+.row-item.subheading {font-size: 20px;}
+.row-item h6 {font-size: 14px;flex: 0 0 100%;color: #CFA935;}
+.row-item {flex-wrap: wrap;flex: 0 0 100%;}
+.table-row {flex-wrap: wrap;}
+.section_heading h2 {font-size: 30px;}
+
+/* ======================================= Role Base ======================================= */
+
+.CareerPath .table-row.heading {display: flex;flex-wrap: nowrap;}
+.CareerPath .table-row.heading .row-item {flex: 1;}
+.CareerPath .row-item h6 {display: none;}
+.CareerPath .row-item {flex: 1;}
+
+/* ======================================= Find A Training Partner ======================================= */
+.FindPartners .heading .row-item:nth-child(2), .FindPartners .row-item:nth-child(2), .FindPartners .row-item:last-child, .FindPartners .table-row.heading .row-item:last-child, .FindPartners .row-item h6 {
+display: none;}
+.FindPartners .row-item:last-child {display:flex; white-space: nowrap; padding-top: 0; flex: 1;}
+.FindPartners .table-row.heading {display: flex; flex-wrap: nowrap;}
+.FindPartners .row-item {flex: 0 50%;}
+.FindPartners .row-item, .FindPartners .row_innter-item p {font-size: 16px !important;}
+.FindPartner_table.mb-5 {position: relative; padding-top: 0px;}
+.mobile_btn-show {display: none; width: 100%;}
+.mobile_btn-show button {width: 100%; margin-bottom: -38px;}
+
+/* ======================================= Difference Between Certification and Certificates ======================================= */
+
+.certification-vs-completion .row-item h6 {font-weight: bold;}
+.certification-vs-completion .row-item:nth-child(2)::before {left: 40px; top: 0; width: 20px; height: 20px;}
+.certification-vs-completion .table-row {margin-bottom: 0; border-top: none;}
+.certification-vs-completion .row-item.subheading h6 {display: none;}
+.certification-vs-completion .row-item.subheading {flex: 0 0 100%;}
+.certification-vs-completion .row-item {flex: 0 0 50%; display: block;}
+.certification-vs-completion .row-item {padding: 18px;}
+.completion_grid .table-row.heading {display: flex;}
+.completion_grid .table-container {width: 1226px;}
+.completion_grid .row-item {flex: 1;}
+.completion_grid .row-item h6 {display: none;}
+.completion_grid .main-container {overflow-x: scroll; padding-bottom: 20px;}
+
+.completion_grid .main-container::-webkit-scrollbar {height: 8px;}
+.completion_grid .main-container::-webkit-scrollbar-track {background: #2A2E36;}
+.completion_grid .main-container::-webkit-scrollbar-thumb {background: var(--primary-color);}
+
+/* ======================================= Event Details ======================================= */
+
+.top_banner-content {position: relative; top: 0; transform: translateY(0); margin-bottom: 50px; margin-top: -200px;}
+#countdown ul {column-gap: 10px;}
+#countdown ul li {font-size: 14px;}
+.TeaserVideo .primary_bg {padding: 20px !important;}
+.video_text .btn {height: auto; line-height: normal; padding: 20px;}
+.TextOverlayImage {padding: 2rem;}
+.OurPartner_slider.owl-theme .owl-nav button.owl-prev {margin-left: 0;}
+.OurPartner_slider.owl-theme .owl-nav button.owl-next {margin-right: 0;}
+.step_curve-arrow {display: none;}
+.partner-network-badge {left: 50%; transform: translate(-50%, 0); right: auto;}
+.certification-master h1.cmn-hd {font-size: 30px;}
+.top_img-text {left: 20px;}
+.patners_points ul li {font-size: 18px;}
+
+/* ======================================= AI Certified Trainer ======================================= */
+
+.aicert-video-with-text_overlay::before {display: none;}
+.aicert-video-with-text_overlay .overaly_video-content {max-width: 100%; padding: 20px 20px 10px;}
+.aicert-video-with-text_overlay .overaly_video-content .aicerts-brand_logo img {max-width: 128px;}
+.certi_trai-rich-text-video-content h3 {font-size: 16px;}
+.certi_trai_logo {max-width: 100px;margin: 0px auto;margin-bottom: 30px;}
+.certi_trai-rich-text-video {padding: 15rem 0px;text-align: center;margin-bottom: 3rem;}
+.BTrainer-content h2 {font-size: 18px;}
+.BTrainer-content h5 {font-size: 18px;}
+.BTrainer-content a.btn {height: 40px;line-height: 40px;font-size: 14px;font-weight: 600;margin-top: 15px !important;}
+.aictbanner .overaly_video-content {text-align: left;}
+.ProgramHighlights, .Corporate_TE, .Eligibility_Criteria, .Corporate_TE, .aictpage .certi_trai-rich-text-video, .aictbanner, .ApplicationProcess, .aictpage .aicerts_testimonial, .Becoming, .aictpage .faqs-slide {margin-bottom: 60px;}
+.aictbanner .overaly_video-content {padding: 30px 20px 0 20px;}
+.aictbanner h1 {font-size: 24px;margin-bottom: 10px;}
+.aictbanner h5 {font-size: 18px;font-weight: 500;margin-bottom: 0;}
+.btn-becometrainer {margin-bottom: 0;font-size: 18px;height: 50px;line-height: 48px;}
+.aictpage .certi_trai-rich-text-video-content h3 {font-size: 18px;text-align: left;padding: 0 20px;}
+.aictpage .certi_trai-rich-overaly_video {opacity: 0.4;}
+.aictpage .certi_trai-rich-text-video {padding: 2rem 0px;}
+.aictpage .certi_trai-rich-text-video video {height: 100%;object-fit: cover;}
+.aictpage .certi_trai_logo {max-width: 125px;}
+.aictpage .section-heading h2 {font-size: 24px;margin-bottom: 20px;}
+.pro-h_icon {flex: 0 0 65px;}
+.pro-h_text h6 {font-size: 16px;line-height: 24px !important;}
+.Corporate_TE p, .Corporate_TE ul li {font-size: 18px;}
+.aictpage .section-heading h5 {font-size: 18px;margin-bottom: 15px;}
+.Eligibility_Criteria .icon-quality {width: 60px;padding: 8px;}
+.aictpage .et_card {padding-left: 28px;}
+.aictpage .text-quality {padding-left: 50px;}
+.Eligibility_Criteria .text-quality p, .ApplicationProcess p {font-size: 15px;}
+.aictpage .aicerts_testimonial {padding: 40px 0;}
+.aictpage .BTrainer-content {padding: 20px;position: static;transform: none;}
+.aictpage .BTrainer-content h2, .aictpage .BTrainer-content h5 {margin-bottom: 10px;}
+.aictpage .Becoming .news_banner img {height: 230px; object-fit: cover; object-position: right;}
+.ap_step {height: 60px;width: 60px;font-size: 15px;font-weight: 500;left: -30px;}
+.ApplicationProcess .AP_card {margin-left: 30px;padding-left: 50px;}
+.aictpage .overaly_video video {min-height: 300px;object-fit: cover;}
+
+
+/* ======================================= events v2 ======================================= */
+
+.whyevents-bg, .why-attentevents .arrowcnt:before {background: none;min-height: inherit;}
+.eventsicons {display: block;}
+.why-attentevents .arrowcnt {display: flex;gap: 30px;margin-bottom: 50px;flex: 0 0 50%;}
+.whyattendevents {margin-bottom: 0;}
+.why-attentevents {flex-wrap: wrap;}
+.ExplorebyCategory, .UpcomingEvents, .FeaturedSpeakers, .eventsSpeakers, .PastEventsHighlights {margin-bottom: 40px; padding-bottom: 0;}
+.eventsSpeakers .owl-dots {display: none;}
+.whyevents-bg {background: none;}
+.eventsSpeakers .owl-dots {display: block; margin-top: 20px;}
+.why-attentevents .arrowcnt {gap: 20px; margin-bottom: 20px;}
+.event_slider .midd-banner-slide img {filter: brightness(0.5);}
+.eventsv2-tab .nav-tabs.maintabs li {flex: 0 0 100%;display: flex;}
+.eventsv2-tab .nav-tabs.maintabs .nav-link {border-radius: 10px; border: solid 1px var(--black-color-70); margin-bottom: 8px;font-size: 14px; white-space: nowrap; width: 100%;}
+.eventsv2-tab .nav-tabs.maintabs .nav-link.active, .eventsv2-tab .nav-tabs.maintabs .nav-link:hover {border: solid 1px var(--primary-color);}
+.eventsv2-tab .events-subtabs .nav-tabs {background: none !important; margin-top: 15px;}
+.eventsv2-tab .events-subtabs .nav-tabs .nav-link {margin: 0; font-size: 14px; line-height: 24px; border-radius: 10px; border: solid 1px var(--black-color-70); margin-bottom: 8px; margin-right: 8px;}
+.whyattendevents .eventsicons img {height: 60px;}
+.why-attentevents h3 {font-size: 20px;}
+
+
+/* ======================================= Role Based Solution V1 ======================================= */
+
+.certification-details {flex-wrap: wrap;justify-content: center;text-align: center;}
+.certi_couse_info {flex: 0 0 22%;}
+.certi_badge {flex: 0 0 25%;}
+.Top-Certi_card h4 {font-size: 16px;}
+.contactus-btn {margin-top: 3rem;margin-bottom: 0;}
+.contactusimg {margin-bottom: 40px;}
+.rbs-banner .overaly_conten {position: static; max-width: calc(100% - 30px); transform: none; margin-top: 20px;}
+.rbs-banner .overaly_conten h1 {font-size: 30px;}
+.rbs-banner .overaly_conten h1, .rbs-banner .overaly_conten p {margin-bottom: 20px;}
+.CourseCard .iconwithprice h3, .CourseCard .iconwithprice span {font-size: 18px;margin-bottom: 0;}
+.CourseCard .iconwithprice img {height: 36px;}
+
+/* ======================================= why v1 ======================================= */
+
+.why-aircert-video .overaly_video-content {position: static; padding: 0 30px; text-align: left; max-width: 100%; transform: none; width: 100%;}
+.cta-Banner.whypage-cmn-section .ctabanner_img img {height: 340px; object-fit: cover; object-position: center;}
+.cta-Banner.whypage-cmn-section .ctabanner-content {left: 20px;}
+.whypage-cmn-section .video-with-text_overlay::before {display: none;}
+.why-aircert-video .overaly_video video {margin-bottom: 40px;min-height: auto;}
+/*.why-aircert-video h1, .whypage-cmn-section h2, .cta-Banner.whypage-cmn-section h2 {font-size: 32px;}*/
+.whypage-cmn-section {margin-bottom: 50px;}
+
+/* ======================================= banner video ======================================= */
+.banner-video-section {flex-wrap: wrap; margin-bottom: 40px;}
+.bannervideo {position: static; width: 100%; margin-bottom: 30px;}
+.bannervideo::before {display: none;}
+.video-banner-cnt {max-width: 100%;}
+.video-banner-cnt h1 {font-size: 32px;}
+.video-banner-cnt p {margin: 1rem 0px;}
+
+.page-template-tpl-certification-category-v2 .top_img-text h1.cmn-hd {font-size: 32px;margin-bottom: 30px !important;}
+
+/* ======================================= Testimonials V2 ======================================= */
+
+.tm-v2-banner.banner-video-section {min-height: 380px;}
+.tm-v2-banner .video-banner-cnt {max-width: 70%;}
+.tm-v2-banner .video-banner-cnt h1 {font-size: 40px;}
+.tm-v2-banner .video-banner-cnt p {font-size: 18px;}
+.exp-card .exp-img-cnt .stars-animated {height: 50px;left: calc(50% + 48px);}
+.exp-card {flex-direction: column;}
+.tmv2-large-card .tmv2-thumbimg img {min-width:150px; height:150px;}
+
+/* ======================================= Trademarks Page V3 ======================================= */
+.common-img-banner {height: auto; padding: 80px 0;}
+.tm-banner-cnt {max-width: 70%;}
+.tm-banner-cnt h1 {font-size: 36px;}
+.tm-banner-cnt p {font-size: 24px;}
+.tm-hd-section p {font-size: 18px;}
+.cmn-cta-cnt {padding: 30px;}
+.ourtm-titlebar h2 {font-size: 28px; height: 60px; line-height: 60px !important;}
+.cmn-cta-cnt h3 {font-size: 20px; max-width: 80%;}
+
+/* ======================================= Accreditations ======================================= */
+
+.accr-bannerimg .video-banner-cnt h1 { font-size: 48px; line-height: normal !important; width: 88%; } 
+.accr-btn { background: var(--primary-color); border-color: var(--primary-color); font-weight: 600; color: white; margin-bottom: 50px; background-repeat: no-repeat !important; background-size: cover !important; } 
+.accr-ansti-title { padding-top: 0px;} 
+.accr-ansti-title-para { font-size: 32px; margin-top: 0px; } 
+.accr-commitment-title { font-size: 32px; padding-top: 60px; } 
+.pb-100px { padding-bottom: 60px; } 
+.accr-mb-100 { margin-bottom: 0px; } 
+.img-res { margin-bottom: 60px !important; padding-top: 60px !important; } 
+.pt-0 { padding-top: 0px !important; } 
+.accreditation-paragraph { margin-bottom: 60px; } 
+.inline-btn { display: flex !important; gap: 20px; } 
+.accr-commitment-box { margin-right: 0px; } 
+.h2_happy_to_help_accr { padding-bottom: 60px; } 
+.accr-step { position: absolute; bottom: -25px; left: 50%; transform: translate(-50%);} 
+.accr-matter-border-bottom { padding-bottom: 30px; } 
+.pb-60{ padding-bottom: 60px; }
+.accr-bannerimg {padding-top:40px;}
+.accr_event_photo {width:auto; height:auto; margin-top:20px;}
+.happy_to_help_wrap_accr {padding:30px; padding-bottom:0;}
+section.accr-pb-sm, div.accr-pb-sm {padding-bottom:20px !important;}
+
+/* ======================================= Careers Page V3 ======================================= */
+
+.career-sec1 {margin-top: -5rem;}
+
+/* banner video */
+.banner-video-section {flex-wrap: wrap; margin-bottom:40px;}
+.bannervideo {position:static; width:100%; margin-bottom:30px;}
+.bannervideo::before {display:none;}
+.video-banner-cnt {max-width:100%;}
+.video-banner-cnt h1 {font-size:32px;}
+.video-banner-cnt p {margin:1rem 0px;}
+
+/* ======================================= Product Videos V1 ======================================= */
+.pv1-cmn-sec {margin-bottom: 50px;}
+
+/* ======================================= Roadmap ======================================= */
+.roadmap-sec h2 {font-size: 32px;}
+.prog-category {flex-direction: column; align-items: start;}
+.roadmap-sec h2.prog-cat-title {position: relative; margin-top: 20px;}
+.roadmap-sec p.secondtitle, .roadmap_cta h3 {font-size: 18px;}
+.monthly-prog {margin-left: 0; width: 100%;}
+.prog-category h2.progyear {transform:none;}
+.monthly-prog ul {margin-left: 0;}
+.prog-popovers {transform:none; left: 0; width: 100%;}
+.progression-cnt:before, .progression-cnt-outer:before, .progression-cnt-outer:after {left: 30px;}
+.monthly-prog ul li a.monthtitle {background-size: 60px; padding-left: 70px; font-size: 20px;}
+.prog-popovers {padding: 15px;}
+.prog-popovers-header, .roadmap_cta p {font-size: 20px;}
+.progression-cnt {padding-bottom: 20px;}
+.roadmap_cta {background-position: top;}
+.roadmap_cta p {margin-bottom: 30px;}
+
+/* =========================== Exam Portal =========================== */
+.exam_row{gap: 5rem;}
+.exam_flex{flex: auto;}
+.exam_flex::before {left: 0; right: 0; margin: 0px auto; top: auto; bottom: -53px; transform: rotate(90deg);}
+.Exam-Banner h1 { font-size: 25px;}
+.Exam-Banner h3 {font-size: 16px;}
+.ExamVideoStep h2, .WCAI h2, .JoinOurCertified h2 {font-size: 36px;}
+.why_card h3, .JoinOurCertified  h3 {font-size: 24px;}
+.why_card p {font-size: 18px;}
+
+.rnb-cards {margin: 50px 0;}
+
+
+
+
+/* mobile image banners */
+
+.banner-video-section .video-banner-cnt {padding-top: 15px;}
+.banner-video-section .bannervideo {margin-bottom:0;}
+section.imgbanner {background-size: auto 438px !important; background-position: top right !important; padding:0; min-height:auto; background-repeat: no-repeat !important;}
+section.imgbanner .video-banner-cnt {padding: 15px 0; margin-top: 450px;}
+section.imgbanner .video-banner-cnt h1, .video-banner-cnt h1, .event_slider .midd-banner-slide .video_title, .certification-cate .top_img-text h1.cmn-hd {font-size:28px !important; padding:0 !important; margin:0 0 15px 0 !important; font-weight:600; line-height: 36px !important;}
+section.imgbanner .video-banner-cnt p, .video-banner-cnt p, .event_slider .midd-banner-slide .slide-sub-tex {font-size:18px !important; padding:0 !important; margin:0 0 24px 0 !important; font-weight:600; width:100%; line-height:26px !important;}
+.common-img-banner {padding:0; margin-bottom:40px;}
+section.roadmap-banner .video-banner-cnt {background:none; text-align:left;}
+.tm-v2-banner .btn-outline-dark {background:var(--primary-color); border-color:var(--primary-color); font-weight: 600; color: #fff; }
+
+.event_slider .midd-banner-slide {flex-direction: column;}
+.event_slider .midd-banner-slide img {height:215px; width:100%; object-fit:cover; min-height: auto;}
+.event_slider .main-banner-cnt {position: static; transform: none; padding: 20px 0;}
+
+.certification-master {background-position: right; padding: 0 !important; min-height:auto; background-color: transparent;}
+
+/* ======================================= AI+ Military ======================================= */
+
+.block_title_item{width:calc((33.333% - 15px) + 15px / 3);}
+.key_certification .btn{width:auto;}
+.key_certification{background-position:center bottom 50px;}
+.testimonial_detail{width:calc(100% - 230px);}
+.testimonial_img{min-width:auto;width:200px;}
+.testimonial_slider{background:none;padding-left:0;}
+.testimonial_detail h1{font-size:24px;}
+.footer_hero_section .left {border-radius: 10px 10px  0 0;}
+.footer_hero_section .right img {width: 100%; border-radius: 0;}
+
+#tabModules .benefits_video {display:none;} 
+.modal-mobilevideo iframe {width: 100%; height: auto; aspect-ratio: 16 / 9;}
+.modal-mobilevideo .btn-close {background: #000;top: -8px;right: -5px;position: absolute;opacity: 1;border-radius: 50%;padding: 5px;background-size: 10px;color: #fff;height: 16px;width: 16px; line-height:16px; z-index: 999;}
+
+/* discount modal */
+.dmodal-img {display:none;}
+.dmodal-badge {top: 0%;}
+.dmodal-cnt {justify-content: center; float: none; width: 100%; padding-top: 40px;}
+.dmodal-cnt p.dmodal-discountcode {/*margin: 0;*/} 
+#modal-discount .modal-content {max-width: 440px; margin:0 auto;}
+/* discount modal end */
+/* ======================================= Why Aicerts V2 ======================================= */
+.why-banner{padding-top: 6rem;}
+.AreMostValued ul li.nav-item{flex: 0 0 40.5%;}
+section.why2-banner {margin-bottom:0;}
+section.why2-banner .video-banner-cnt {max-width:100%; width:100%;}
+
+.our_certification_team_item_inner {flex-direction: column;}
+.our_certification_team_item_img {min-width: 100%; width: 100%; padding-right: 0; margin-bottom:20px;}
+.our_certification_team_item_desc {width: 99%;}
+.our_certification_team_slider {padding: 30px 25px;}
+.iso_content_inner {padding:30px;}
+/*section.why2-banner {background: url(../images/banner-why-aicert-black-mobile.webp) no-repeat center !important; background-position: center top !important;}*/
+
+.tmpostcard {position:relative;}
+.tmpostcard::before {position:absolute; height:500px; width:100%; left:0; top:0; z-index:99; content:""; display:block;}
+.share-exp-section .tmpostcard::before{display: none;}
+
+.flip-card {width:calc((50% - 50px) + 50px / 2);}
+
+.resources-bg, .collaboration-bg, .resources-bg.KeyChallenges, .resources-bg.HackathonDay, .resources-bg.WhyParticipate {background-image: none;}
+
+/* ============ Token V1 ============ */
+section.CertsToken {margin-top: 3rem;}
+.btn-bg-gradient{padding-left: 50px; padding-right: 50px;}
+.token-certs-card{padding: 15px;}
+.ATPS_Box{padding: 20px;}
+.gs-top-left{left: 0px;}
+.gs-bottom-right{right: 0px;}
+.GS-Card{padding: 50px 20px;}
+.gs-content{padding: 38px 10px;}
+
+.toolsrow .toolcard {flex:0 calc(33.33% - 30px);}
+
+/* PPC Page */
+section.ppcbanner .video-banner-cnt {max-width: 100%; margin-bottom:0;}
+.ppc_form {box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);}
+
+.footerrowlinks {flex-wrap: wrap;}
+.footerrowlinks .footercols {flex: 0 calc(50% - 40px);}
+
+section.rc-banner .video-banner-cnt h1, section.rc-banner .video-banner-cnt h2, section.rc-banner .video-banner-cnt p {color: var(--white-color);}
+
+.sscards{ height:auto; padding-bottom:40px;}
+
+.RoardCard{padding-top: 5px; padding-bottom: 5px;}
+.RoardCard::before, .RoardCard::after{left: 32px;}
+.RoardCard h2 {font-size: 18px !important;}
+.rCertiWrapper {background: var(--darkgrey-color);border-radius: 5px;padding: 16px;}
+.RoardCard {border: none;background: transparent;}
+.Qcard h3 {font-size: 16px;}
+
+.rCertiCard { overflow: hidden; transition: height 0.5s ease; }
+.toggleBtn { margin: 15px auto 0px; padding: 0; cursor: pointer; background-color: transparent; color: #5B5A5F; font-weight: 600; border: none; border-radius: 5px; display: block; }
+.rCertiCard {height: 120px;}
+.rCertiCard.expanded {height: auto;}
+.round-pointstop {margin-left: 13px;margin-bottom: -46px;}
+.round-pointsbottom{margin-left: 13px;}
+
+.AffiliateBanner::before {display: none;}
+.HIcons svg { width: 100px; height: 100px; }
+.AffiliateCover{padding: 50px 0px;}
+.AHImage img {border-radius: 50px 50px 0px 0px;}
+
+.BenefitsAdvisors{padding: 30px 20px;}
+
+.imgbanner.overlay-linear-gradient::before{display: none;}
+.MemberProfile{width: 200px; height: 200px;}
+.step-arrow-right::before{display: none;}
+.MobileAppStore { padding-bottom: 2.5rem; }
+.OurPartners_logos h4 br{display: none;}
+.TechParCard{padding-left: 30px;padding-right:30px;}
+
+.aisaksham-banner.imgbanner .video-banner-cnt .CertiOffer, .aisaksham-banner.imgbanner .video-banner-cnt h2, .aisaksham-banner.imgbanner .video-banner-cnt p {color: var(--white-color);}
+
+}
+
+
+@media screen and (max-width:767.5px) {
+.container {padding:0 20px;}	
+	
+.h2_popular_certifications .owl-dots { position: static; margin-top: 20px; }
+.h2_aicerts_banner_wrap { padding: 50px 20px; }
+.h2_why_ai_certs_slider .owl-dots { position: static; margin-top: 20px; }
+.h2_partners_logo .owl-dots { position: static; margin-top: 20px; width: 100%; transform: none; text-align: center; display:none;}
+.h2_get_certified .h2_aicerts_banner_wrap { padding: 50px 15px; }
+.h2_learners_box { padding: 20px 15px; }
+.h2_aicerts_banner { padding: 40px 0; }
+.top_banner-content {margin-top: -50px;}
+#parentHorizontalTab table tr, #parentHorizontalTab table td {display: block;text-align: left;}
+#parentHorizontalTab table td {padding: 5px 0;}
+.Speakers:hover .Speakers_img img, .on-hover_zoom:hover img {transform: none; filter: none;}
+.midd-banner-slide img {min-height: 400px;}
+.exam-cards .card {padding: 15px 0;}
+.opp-slider .card {padding: 30px 20px;}
+
+.midd-banner-slide .video_title { font-size: 34px; margin-top: 20px;  line-height: 50px; margin-bottom:20px;}
+.midd-banner-slide p { font-size: 18px; width:100%; }
+.midd-banner .owl-theme .owl-nav.disabled+.owl-dots { right: 10px; bottom: 10px; }
+h2.cmn-hd { font-size: 24px; margin-bottom: 40px; }
+h2.cmn-hd span { font-size: 16px; }
+.training-partner-img { margin-bottom: 15px; }
+.blog-card img { height: 350px; }
+.blog-card-hd { font-size: 18px; }
+.blog-desc { font-size: 14px;  }
+.blog-cnt { margin-bottom: 15px; }
+.subscribe-hd { font-size: 24px; }
+.subscribe-hd span { font-size: 18px; }
+.subscribe-r input[type="text"] { padding-right: 135px; }
+.ftr-link { margin-bottom: 30px; }
+.copyright { height: auto; line-height: normal; padding-top: 0px; padding-bottom: 10px; margin-top:0;}
+.midd-inner-banner { min-height: 300px; }
+.midd-inner-banner.career-banner { min-height: 500px; }
+h1.cmn-hd, .certificate-banner-cnt h1 { font-size: 28px; line-height: 32px; }
+.corevalue-desc { height: auto; margin-bottom: 0px; }
+.certified-box .corevalue-hd, .certified-icon  { margin-bottom: 20px; }
+p.bigfont { font-size: 20px; }
+ul.trustedby-logos { height: auto; flex-wrap: wrap; }
+ul.trustedby-logos li { width: 50%; text-align: center; }
+h2.inner-hd { font-size: 22px; }
+.certificate-banner-cnt { padding-top: 30px; }
+.certificate-details { top: 110%; padding: 10px; }
+.certifications-cnt .certifications-img {width: 50%; }
+.certifications-img {width: 40%; }
+.certificate-details ul { flex-wrap: wrap; }
+.certificate-details ul li { width: 50%; border-right: none; padding: 0 10px; text-align:left; margin-bottom: 10px; line-height: 18px; border-bottom: 1px solid var(--light-gray-color1); padding-bottom: 10px; }
+.certificate-details ul li:last-child { padding-bottom: 0; border: none; }
+.certificate-details ul li:nth-child(3) { padding-bottom: 0; border: none; }
+.certifciate-tab {margin-top: 0px; display: none;}
+.values .card {padding: 2em 1em;}
+.values .card h3 {font-size:18px; line-height:26px;}	
+.certifciate-tab ul li { margin-right: 0; margin-bottom: 10px;}
+.certifciate-tab ul li a { padding-left: 5px; padding-right: 5px; }
+.accordion-button span { font-size: 18px; width: 90%}
+.cert-spec-cnt .owl-theme .owl-dots .owl-dot span { margin: 5px; width: 20px; }
+.dropdown-menu { min-width: 100%; max-height: 200px; overflow: auto; padding: 0.5em;} 
+.dropdown-menu ul li { width: 100%; }
+.cert-spec-cnt .owl-theme .owl-item .item{width:92%; margin: auto;}
+.cert-spec-cnt .owl-theme .owl-nav button.owl-prev, .cert-spec-cnt .owl-theme .owl-nav button.owl-next { width: 30px; height: 30px;}
+.cert-spec-cnt .owl-theme .owl-nav button span {font-size: 20px; height: 100%; display: block; width: 100%; line-height: 1.3;}
+.cert-spec-cnt .owl-theme .owl-nav button.owl-prev {left: 0px;}
+.cert-spec-cnt .owl-theme .owl-nav button.owl-next {right: 0px;}
+.accordion-button span .career-ic {display:none; }
+
+.listing-pages h1 {margin-bottom: 30px; font-size: 36px; line-height:normal;}
+h2 {font-size: 28px; line-height: 58px;}
+h3 {font-size: 24px; line-height: 30px;}
+.certification-page .listing-pages {padding-bottom: 0; margin-bottom: 0;}	
+.footer-section .container {padding-top: 50px;}
+.listing-pages {padding-bottom: 0;}
+
+.common-cnt {padding: 0 20px;}
+.common-cnt h2 {font-size: 24px; line-height: 30px;}	
+.home-accordion .accordion-button, .cta-cnt-area p {font-size: 15px;}
+.common-cnt p {font-size: 13px;} 
+.cta-bg-card {min-height: 300px;}
+.cta-cnt-area {margin: 0 20px; }
+.cta-cnt-area h3 {font-size: 24px; font-weight: 500; margin-top: 50px;}
+.footer-section {padding: 15px; padding-top: 0px;}
+.ftr-newsletter {margin-top: 0;}
+.ftr-newsletter {width: 100%;}
+.midd-banner {margin-top: 75px;}
+.header-section {background: #000;}
+.copyright .container {padding-top: 20px;}
+
+.job-listing-section .nav-tabs .nav-link {margin-bottom:15px; font-size:14px;}	
+.career-tabs .accordion-header {display:block; margin-bottom:20px;}
+.career-tabs .accordion-header img {width:20px;}
+.career-tabs .accordion-header h2  {width:100%; line-height:normal; margin-bottom:5px;}
+.career-tabs .accordion-header h2 span {margin-bottom:0; top:0;}
+.career-tabs .accordion-header span {display:block; margin-bottom:10px; position:relative; top:-5px;}
+.career-tabs .btn-outline:after {right:17px;}
+.career-tabs .accordion-body {padding:5px;}
+
+.yearsexp {top:-80px; max-width:100%;}
+.yearsexp .years-cnt {padding:0 0 0 20px; text-align:left; font-size:16px;}
+.testimonial-section h2 {font-size:28px; line-height:normal;}
+.esteemed-partners-cnt .corevalue-desc {padding:0;margin-bottom:20px;}
+
+.midd-banner .owl-theme .owl-dots {bottom: 5px; right: 50%;  margin-right: -80px;}
+.midd-banner-slide {align-items:end;}
+.midd-banner-slide .video_title { font-size:22px; line-height:normal;}
+.midd-banner-slide video {height:250px; object-fit: cover;  object-position: right; }
+.midd-banner-slide .video_title br {display:none;}
+
+.myforms {padding:0 20px;}
+form .action-button {margin:5px 0 0 20px !important;}
+.wpcf7 form .wpcf7-response-output {margin:10px 20px; text-align:center;}
+.sgpb-popup-builder-content-2262.sgpb-popup-builder-content-html .wp-block-column.is-layout-flow.wp-block-column-is-layout-flow:first-child,
+.testimonial-section .owl-nav{display: none;}
+
+.evlevate_image {max-width: 100%;margin-bottom: 2rem;}
+
+.trademakr-img img {max-width: 100%;width: 100%;margin-bottom: 1.5rem;}
+.trademakr-text p {margin-bottom: -10px !important;}
+.core_value {padding: 20px;}
+.core_value h3{font-size: 18px;}
+.testimonial-section .tm-user h3 {font-size: 18px;}
+.page-template-partner-template .sgpb-main-html-content-wrapper .myforms .action-button{margin: 5px 0 0 0px !important;}
+.page-template-partner-template .sgpb-main-html-content-wrapper .myforms .cf7mls-btns{margin: 0px auto !important;}
+div#sgpb-popup-dialog-main-div {max-width: 95% !important;}
+.exam--steps li { margin-bottom: 0rem;}
+.maintenance-section h2 {margin:50px 0; font-size:40px; line-height:normal;}
+.sidebar-thumb-new {padding:40px; margin:20px; position:relative; top:-50px;}
+ul.faq-list {margin-left: 20px;}
+
+.indextabs ul li {margin-right: 3px;  margin-bottom: 10px;}
+.indextabs ul li a {padding: 0 20px; background: var(--primary-color); border-radius: 20px;}
+.indextabs ul li a:hover {color: var(--primary-color); background:var(--white-color)}
+.sidebar-thumb-new {display:none;}
+.inner-page.certification-page a.btn {width:100%; text-align:center;font-size: 14px;padding: 0 10px;}
+.btn-lg {height: 44px; line-height: 42px;}
+
+/* common font size*/
+.common-cnt p, .home-accordion .accordion-button, .cta-cnt-area p, ol.faq-list-title li, .common-cnt .accordion-body li {font-size:18px;}
+
+.FindPartner_table .table-row:last-child, 
+.FindPartner_table .row-sub-container .row-item:last-child, 
+.FindPartner_table .table-row {border-width: 3px;}
+
+section.OurEventsNews{text-align: center;}
+.btn_ctn { text-align: center; margin-top: 20px; }
+
+/* ============ Events Details Page ============ */
+.top_banner-content h1{font-size: 36px;}
+.line {display: none;}
+.TeaserVideo .primary_bg {padding: 20px 0px !important; text-align: center;}
+.video_play{ max-width:60px;}
+.EventTopic, .EventsTopi, .OurSpeakers, .TextOverlayImage { text-align: center; } 
+.EventTopic .section_header h2, .EventsTopi h2, .OurSpeakers h2, .TeaserVideo .section_header h2, .TextOverlayImage h2 { font-size: 30px; line-height: normal;}
+.video_text h3 { font-size: 16px; line-height: 24px;}
+.time_event h4 { font-size: 12px;} 
+.video_text h2 { font-size: 24px;}
+.easyTab_item h3, .Speakers_info h3, .TextOverlayImage h3, .RichTextContent h2 {font-size: 18px;}
+.social-link.social-link{justify-content: center;}
+
+a.btn.btn-primary.viewall {margin-top: 20px;}
+.BenefitsCertification  h2 {font-size: 30px;line-height: normal;}
+.Benefits_card {flex-direction: column; justify-content: center; align-items: center; text-align: center;}
+.UpliftYourCareer .row {flex-direction: column-reverse;row-gap: 30px;text-align: center;}
+
+.gloy_bg h2 {font-size: 26px;}
+.testimonials_certi .col-lg-3 {width: 100%;}
+
+/*Release - 6-30*/
+.articlespage .corevalue-hd {min-height: auto;}
+.training-partner-img a.btn.btn-primary {width:100%;}
+.career-sec1 {margin:10px 0 30px 0;}
+.career-sec1 p {line-height:24px;}
+.h2_what_aicerts {background-color:var(--darkgrey-color);}
+.Certificate_slide .owl-nav{display: none;}
+/*section.cert-spec-section.pb-2.certification-master {padding-top: 5rem;}*/
+.career_header {padding-bottom: 3rem;}
+
+.footer-section h3.cmn-hd {margin-bottom:10px;}
+
+/*.certification-master {background-position: center; padding: 70px 30% 50px 0 !important; min-height:auto;}*/
+.certification-master {background-position: center; padding: 0 !important; min-height:auto; background-color: transparent;}
+.certification-master h1.cmn-hd {font-size: 24px;}
+
+.pa-listing .listing-box {margin-bottom:20px;}
+.pa-listing .listing-box:last-child {margin-bottom:0px;}
+
+.Benefits .Benefits_icon {flex: 0 0 40px;}
+.Benefits_icon img {max-width: 50px; height: 50px;}
+
+.team-img + .corevalue-hd span {min-height:auto;}
+.team-section .corevalue-hd {margin-bottom:10px;}
+
+/* ============ AI Certified Trainer ============ */
+.AICERT-video-with-text_overlay::before {display: none;}
+.AICERT-video-with-text_overlay .overaly_video-content {padding: 50px 0px 40px;}
+
+/* ======================================= AI Certified Trainer ======================================= */
+.testimonial_card {flex-direction: column;justify-content: center;text-align: center;padding: 10px;}
+.testimonial_pic {margin: 0px auto;}
+.AP_card{padding-left: 60px;}
+.ApplicationProcess .col-6 { display: none; }
+
+.CourseCompletion {padding-bottom:0;}
+.CourseCompletion .CourseCard {margin-bottom:20px;}
+.examdetail {padding-bottom:10px;}
+.skills-section img {max-width:30px;}
+.skill-cnt {margin-left: 50px; margin-bottom:0;}
+.skill-cnt p {margin-bottom:0;}
+.CourseCard .iconwithprice {justify-content: flex-start;}
+
+
+/* ============ Ai CertLab V1 ============ */
+.video-with-text_overlay::before {display: none;}
+.overaly_video-content {text-align: center;padding: 30px 0px;}
+.labsbanner h1 {font-size:36px;}
+.labsbanner .brand_logo img {margin: 20px; max-width: 80%;}
+.labsbanner p {font-size: 18px; margin-bottom:0; font-weight:600;}
+.rich-text-video-content h3 {font-size: 22px;}
+.labsrow {margin-bottom: 0px;}
+.rich-overaly_video video {height: 320px; object-fit: cover;}
+.certs_lab-text p {margin-bottom:0;}
+.certs_lab-text .btn {margin-top:20px;}
+
+.overaly_video-content {position:static; transform:none; width:100%;}
+.patners_points  {margin-top:20px;}
+
+
+.ProgramHighlights, .Corporate_TE, .Eligibility_Criteria, .Corporate_TE, .aictpage .certi_trai-rich-text-video, .aictbanner, .ApplicationProcess, .aictpage .aicerts_testimonial, .Becoming, .aictpage .faqs-slide {margin-bottom:40px;}
+
+.aictbanner .overaly_video-content {padding:30px 20px 0 20px; margin-bottom:40px !important;}
+.aictbanner h1 {font-size:28px; margin-bottom:10px;}
+.aictbanner h5 {font-size:18px; font-weight:600; margin-bottom:0;}
+.btn-becometrainer {margin-bottom:0; font-size: 18px; border-radius:0;}
+.aictpage .certi_trai-rich-text-video-content h3 {font-size: 18px !important; text-align: left;  padding: 0;}
+.aictpage .certi_trai-rich-overaly_video {opacity: 0.4;}
+/*.aictpage .certi_trai-rich-text-video {padding: 2rem 0px;}*/
+.aictpage .certi_trai-rich-text-video video {height: 100%; object-fit: cover;}
+.aictpage .certi_trai_logo {max-width: 125px;}
+.aictpage .section-heading h2 {font-size: 24px; margin-bottom:20px;}
+.pro-h_icon {flex: 0 0 65px;}
+.pro-h_text h6 {font-size:16px; line-height:24px !important;}
+.Corporate_TE p, .Corporate_TE ul li {font-size:18px;}
+.aictpage .section-heading h5 {font-size:18px; margin-bottom:15px;}
+.Eligibility_Criteria .icon-quality {width: 60px; padding: 8px;}
+.aictpage .et_card {padding-left: 28px;}
+.aictpage .text-quality {padding-left:50px; padding-right:20px;}
+.Eligibility_Criteria .text-quality p, .ApplicationProcess p {font-size:16px;}
+.aictpage .aicerts_testimonial {padding:40px 0;}
+.aictpage .BTrainer-content {padding:20px 0; position:static; transform:none;}
+.aictpage .BTrainer-content h2, .aictpage .BTrainer-content h5 {margin-bottom:10px;}
+.aictpage .Becoming .news_banner img {height: 230px;  object-fit: cover;  object-position: right;}
+.ap_step {height:60px; width:60px; font-size:15px; font-weight:500; left: -30px;}
+.ApplicationProcess .AP_card {margin-left: 30px;}
+.ApplicationProcess:hover .arrowanimation:after {display:none;}
+
+
+
+
+/* Events v2 starts */
+
+.eventscarousel .owl-nav {position: relative; margin: 0 auto; gap: 50px; display: flex; width: 60px; justify-content: stretch; margin:30px auto; margin: 20px auto;}
+
+/*.cmn-sliderdots {margin-bottom:70px;}*/
+.cmn-sliderdots .owl-nav {position: relative; gap: 0px; display: flex;  width: 100%; justify-content: center; margin: 30px auto; margin-bottom:0; bottom:0;}
+.cmn-sliderdots .owl-nav button span {font-size: 26px; color: var(--white-color) !important;}
+.cmn-sliderdots .owl-nav button:hover span {color: var(--white-color);}
+.cmn-sliderdots.offsetarrow .owl-nav .owl-prev{left:-15px;}
+.cmn-sliderdots.offsetarrow .owl-nav .owl-next{right:-15px;}
+
+
+
+
+/*.events_card {margin-bottom: 20px;}*/
+
+
+
+
+/* ======================================= Role Based Solution V1 ======================================= */
+.explore-all_our-role .col-lg-5 .btn {width: 100%;}
+.contactusinfo h3 {font-size: 18px;}
+.overaly_conten h1 {font-size: 20px;}
+.overaly_image {position: relative;padding-top: 100%;}
+.overaly_image img {position: absolute;height: 100%;object-fit: cover;top: 0;}
+
+.rbs-banner .overaly_conten h1 br {display:none;}
+.rbs-banner .overaly_image {padding-top:0;}
+.rbs-banner .overaly_image img {position:static;}
+.Expert-level .section_header p {max-width:100%;}
+
+.explore-all_our-role .certi_couse_info {flex: 0 0 100%; flex-direction: row; gap:20px; justify-content: center;}
+.explore-all_our-role .certi_badge {flex: 0 0 50%;}
+
+.Personalized .Personalized_Card {padding:30px}
+.Personalized .Personalized_Card p {margin-bottom:0;}
+.ContactUs_Now .text-center {text-align:left !important;}
+.ContactUs_Now .contactus-btn {margin-top:15px;}
+.ContactUs_Now .contactus-btn .btn {margin:0 10px 15px 0; padding: 0 10px;}
+
+/* ======================================= Why Aicerts V1 ======================================= */
+
+.whypage-cmn-section {margin-bottom:40px;}
+/*.why-aircert-video h1, .whypage-cmn-section h2, .cta-Banner.whypage-cmn-section h2 {font-size:30px;}*/
+.why-aircert-video .video-with-text_overlay, .why-aircert-video {overflow:hidden; }
+.why-aircert-video .overaly_video video {height: 260px;  width: 100%; margin-bottom:30px; object-fit: cover;}
+.why-aircert-video .overaly_video-content {padding:0 30px; text-align:left;}	
+
+.whypage-cmn-section .icon-wtih-text-card {padding:20px;}
+.whypage-cmn-section .icon-wtih-text-card img {height:40px;  width:40px;}
+
+.usps h5, .cta-Banner.whypage-cmn-section h3 {font-size:18px;}
+/*.usps p, .whypage-cmn-section .icon-wtih-text-card p {font-size:16px;}*/
+.cta-Banner.whypage-cmn-section h2, .cta-Banner.whypage-cmn-section h3 {margin-bottom:20px; }
+
+.cta-Banner.whypage-cmn-section .ctabanner_img img {height:340px; object-fit: cover; object-position: center;}
+.cta-Banner.whypage-cmn-section .ctabanner-content {left:20px; padding-right: 20px;}
+.whoweare-cnt p {font-size:18px; margin-bottom:30px;}
+.Mission_Vision .icon_with_text-flex {flex-wrap: wrap; text-align:center; gap: 20px;}
+.whypage-cmn-section.values .card h3 {line-height: 28px !important;}
+
+.bannervideo {margin-bottom:20px;}
+.video-banner-cnt p, .vp-firsttext p {font-size:18px;}
+
+/* why page css ends*/
+
+.h2_partners_logo .item .h2_aicerts_lab_box {padding:0;}
+.ginput_container input.small {width:100% !important;} 
+.gfield_label.gform-field-label {display:block !important;}
+.CareerPath .table-row {gap: 10px;}
+.CareerPath .table-row .row-item.subheading {font-size:18px;}
+
+
+
+
+
+/* ======================================= Certification Detail V4 ======================================= */
+
+.SupportingCompanies .owl-item:nth-child(even) .card {flex-direction: column;}
+/*.AIBlockchainExperts.owl-theme .owl-dots {display:none;}
+.AIBlockchainExperts.owl-theme .owl-nav {display:block; margin-top:-20px;}
+.AIBlockchainExperts.owl-theme .owl-nav button {width: 40px; height: 40px; border: 2px solid var(--primary-color) !important; border-radius: 100px !important; background-image:url(../images/arrow-right-orange.svg) !important;  background-repeat: no-repeat !important;  background-position: center !important;}
+.AIBlockchainExperts.owl-theme .owl-nav button span{display: none;}
+.AIBlockchainExperts.owl-theme .owl-nav button.owl-prev {transform: rotate(180deg);}
+.AIBlockchainExperts.owl-theme .owl-nav button:hover{background-image: url(../images/arrow-submit.svg) !important;   background-color: var(--primary-color) !important;}*/
+
+
+/* ======================================= Search Page V1 ======================================= */
+
+.search-result-title {flex-wrap: wrap;}
+.search-result-title h2 {font-size: 22px;}
+.mobile-cmn-cnt {padding: 0 20px;}
+.search-listing .card {margin-bottom: 20px;}
+.navbar-light .navbar-brand {max-width: 150px;}
+
+.search-listing .card .search-listing-cnt {padding-bottom:0;}
+.searchcard-btngroup {position:static; width:100%;}
+.search-listing .card h3 {margin-bottom:20px;}
+
+
+
+/* Certification Category banner fixes */
+.page-template-tpl-certification-category-v2 .top_img-text {width: 100%;left:0;padding:0 30px !important;}
+
+/* ======================================= Testimonials V2 ======================================= */
+
+.tmv2-main-tms, .tmv2-cta-section, .tmv2-tabs-section, .tmv2-partners, .share-exp-section {margin-bottom: 40px;}
+.tmv2-tabs-section h2 {font-size: 28px;}
+.tm-v2-banner .video-banner-cnt {max-width: 100%; padding: 40px 20px;}
+.tm-v2-banner .video-banner-cnt h1 {font-size: 24px;}
+.tm-v2-banner .video-banner-cnt p {font-size: 18px;}
+.tm-v2-banner .video-banner-cnt .btn {margin-bottom: 15px; width:100%;}
+.tm-v2-banner.banner-video-section {min-height: 100px;}
+.tmv2-large-card {flex-direction: column;  padding: 40px 20px;}
+.tmv2-large-card .card p {font-size: 16px;}
+.exp-card {flex-direction: column; padding: 0 20px;}
+
+
+
+/* ======================================= Trademarks Page V3 ======================================= */
+
+.tm-hd-section, .tm-ourtrademarks, .tmv3-cards, .cmn-cta-banner {margin-bottom: 40px;}	
+.common-img-banner {height: auto; padding: 60px 20px;}
+.tm-banner-cnt {max-width: 100%;}
+.tm-banner-cnt h1 {font-size: 30px;}
+.tm-banner-cnt p, .tmv3-cards h3 {font-size: 20px;}
+.tm-hd-section p {font-size: 18px; margin-bottom: 40px;}
+.tm-ourtrademarks .tm_card {min-height: 56px; padding: 10px 20px;}
+.ourtm-titlebar h2 {font-size: 20px; height: 60px; line-height: 60px !important;}
+.cmn-cta-cnt h3 {font-size: 20px; max-width: 100%;}
+.ourtm-titlebar {flex-direction: column;}
+.search-ourtm {top: -66px;}
+
+/* ========================================= Accreditations Page =========================================================== */
+
+.mt-40px { margin-top: 40px !important; } 
+.accr-bannerimg .video-banner-cnt h1 { font-size: 24px; color: white; font-weight: 700; line-height: normal !important; width:100%;} 
+.accr-ansti-title {margin-top: 30px;} 
+.accr-second-section-image { padding-bottom: 0px !important; padding-top: 40px; margin-bottom: 0px; } 
+.accr-ansti-title-para { font-size: 28px; margin-top: 10px; } 
+.pt-0 { padding-top: 0px !important; } 
+.accr-commitment-title { padding-top: 40px; color: white; text-align: start; padding-bottom: 10px; font-size: 28px; font-weight: 700; line-height: 44px !important; } 
+.accr-matter-border-bottom { border-bottom: 1px solid #2A2E36; padding-bottom: 40px; } 
+.viewall-btn { margin-top: 0px; } 
+.accr-paragraph { padding-bottom: 40px !important; } 
+.happy_to_help_wrap_accr { background: url(../images/Event_BG.jpg) no-repeat center center; background-size: cover; padding: 30px; padding-bottom:0; border-radius: 12px; border: 4px solid #C4A034; position: relative; } .white_text_accr { color: white; font-size: 23px; font-weight: 700; } 
+.accr-bannerimg { padding-top: 30px; } 
+.accr-bannerimg .video-banner-cnt p {color: white;} 
+.pb-100px {padding-bottom:40px !important;}
+.accr-btn { margin-bottom: 50px; } 
+.accr-commitment-paragraph {margin-bottom:20px;} 
+.accr-matter-list { font-size: 18px; margin-top: 20px; } 
+.accreditation-paragraph { font-size: 18px; } 
+.inline-btn { display: inline-block !important; } 
+.mt-80px { margin-top: 40px !important; } 
+.accr-isoiec-title { padding-top: 40px; padding-bottom:20px; } 
+.accr-paragraph { margin-top: 15px; } 
+.pb-50px { padding-bottom: 40px; } 
+.mt-80 { margin-top: 40px; } 
+.img-res { padding-top: 40px; padding-bottom: 0px; } 
+.h2_happy_to_help_accr { padding-top: 40px; padding-bottom: 40px; }
+.accr-event-btn, .accr-event-contactus-btn {width:100%; text-align:center;}
+
+/*.event_slider {margin-bottom:40px;}	*/
+
+/* ======================================= Careers Page V3 ======================================= */
+.career-sec1{margin-top: -2rem;}
+.WhyJoin-ovelay{padding: 2rem;}
+.career-tabs .collapse:not(.show) + a.btn.btn-primary {position: relative;top: 0;transform: translateY(0);right: 0; margin-right: 10px; margin-left: 0 !important;}
+.job_overview {width: 100%;}
+.remote-icon span {top: 0 !important;margin-bottom: 0 !important;}
+.career-tabs .accordion-header h2 {margin-bottom: 20px;}
+.career-tabs .accordion-item{padding:30px 20px;}
+button.underline-link[aria-expanded="true"] {margin-left: 10px;}
+
+.getintouch-bg {background-position: left !important;}
+.getintouch-bg .gform_confirmation_wrapper {width:70%; color:var(--pure-black) !important;}
+
+/* =========================== Blogs Page V2 =========================== */
+
+.blogsv2-banner .video-banner-cnt h1 {font-size: 30px;}
+.blogsv2-banner {margin-bottom: 40px;}
+
+/* ======================================= Product Videos V1 ======================================= */
+.pv1-banner .video-banner-cnt h1 {font-size: 32px;}
+.pv1-cmn-sec h2 {font-size: 28px;}
+.pv1-banner .video-banner-cnt p {font-size: 20px; margin: 20px 0;}
+
+/* ======================================= ANAB ======================================= */
+
+.anab-header1 {margin-bottom: 20px;}
+.table.anab_table {box-shadow:none; margin-bottom: 30px;}
+.anab-header1 h2 {font-size: 24px; font-weight: 600;}
+table.anab_table tr th {font-size: 16px; padding: 15px; vertical-align: middle;}
+table.anab_table tr td {font-size: 14px; padding: 15px; font-weight: 400;}
+table.anab_table tr td img {max-width: 24px;}
+table.anab_table tr td:last-child {text-align: center;}
+table.anab_table tr td a {font-size:0;}
+table.anab_table tr td a {display: none;}
+
+table.anab_table.microsoft_table tr td a {display: block; font-size:14px;}
+/* ======================================= Exam Portal ======================================= */
+.JoinOurCertified .cta_banner {flex-direction: column-reverse;}
+.JoinOurCertified .cta_banner::before {display: none;}
+.JoinOurCertified .ctabanner_img {margin-bottom: 20px;}
+.Exam-Banner h1 { font-size: 30px;}
+.Exam-Banner h3 {font-size: 18px;}
+.Exam-Banner .overaly_video-content {
+    max-width: 100%;
+    width: 100%;
+    padding: 0px 20px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0px auto;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: rgba(0, 0, 0, 0.6);
+}
+.Exam-Banner .overaly_image img{left: 0; right: 0; object-position: right;}
+.Exam-Banner .row{--bs-gutter-x: 0;}
+
+.ExamVideoStep h2, .WCAI h2, .JoinOurCertified h2 {font-size: 24px;}
+.why_card h3, .JoinOurCertified  h3 {font-size: 20px;}
+.why_card p {font-size: 16px;}
+
+/* ======================================= Advisory Board ======================================= */
+.ab_hero_sec p, .ab-teamcard-cnt p {font-size: 18px;}
+.ab-banner .video-banner-cnt h1 {font-size: 32px;}
+.ab-banner .video-banner-cnt p {font-size: 20px;}
+/*.common-section h2 {font-size: 30px;}*/
+.abplans-subtitle, .ab-cta-section p {font-size: 18px;}
+.ab-team-cardin, .ab-plan-card {flex-direction: column;}
+.common-section {margin-bottom: 40px;}
+.ab-teamcard-cnt {text-align: center;}
+.ab-pan-cnt {border-radius: 10px; text-align: center;}
+
+
+/* ======================================= Advisory Board ======================================= */
+
+/*.ab_hero_sec h2 {font-size:22px;}*/
+.ab-whyaict-cnt p, .ab-whyaict-cnt ul li, .ab_hero_sec p, .ab-teamcard-cnt p, .ab-plans p.subtitle, .ab-whatcards ul li, .ab-commitment-cnt p, .ab-meetupimg-cnt p, .ab-recog-card p {font-size:18px; font-weight:400;}
+.ab-whatcards {padding:0 20px 10px 20px;}
+.ab-whatcards h3 {font-size: 18px; margin-bottom: 20px;}
+.ab-whyaict-img {min-width: 100%;}
+
+.ab-commitment-card {flex-direction: column; gap:20px;}
+.ab-commitment-cnt {border-left:none; border-top:dashed 2px var(--primary-color); padding-left:0; margin-left:0; padding-top:20px; text-align:center;}
+.ab-meetupsection {margin-top: 0;}
+.ab-meetupimg {position:static; height: auto;  width: 100%;}
+.ab-meetup-card {padding:20px;}
+.ab-meetupimg-cnt {margin-top:30px;}
+.ab-meetupimg-cnt h3 {padding: 10px 20px; font-size: 20px; margin-left: -20px;}
+.ab-meetupimg-cnt p {margin-top:10px;}
+
+.advisory-gform .gform-theme--foundation .gform_fields {column-gap: 0;}
+.advisory-gform .gform_fields .ginput_container input, .advisory-gform .gform_fields .ginput_container input[type=file]::file-selector-button, .advisory-gform .gform-theme--framework .gfield_description, .advisory-gform .gform-theme--foundation .gfield select, .advisory-gform .gform-theme--foundation .gfield textarea.large, .advisory-gform .gform-theme--framework .gform-field-label {font-size:16px;}
+
+.advisory-form-card {padding:20px;}
+
+.page-template-tpl-certification-category-v2 .rich-text-container h2 {font-size:18px;}
+
+.no_overlay-header.aictv1banner {background:transparent;}
+.no_overlay-header.aictv1banner .overaly_video-content {text-align: left; padding: 30px 15px; margin-bottom: 20px;}
+.no_overlay-header.aictv1banner .labsbanner .brand_logo img {margin-left:0;}
+
+
+/* events new */
+
+.event_datelocation {font-size: 16px;  white-space: nowrap;}
+
+.cmn-sliderdots .owl-theme .owl-dots, 
+.eventscarousel .owl-dots {display:none;}
+
+.cmn-sliderdots .owl-theme .owl-nav,
+.eventscarousel .owl-theme .owl-nav  
+{display:flex;}
+
+
+.cmn-sliderdots .owl-theme .owl-nav button, .eventscarousel .owl-theme .owl-nav button,
+.cmn-sliderdots .owl-nav button, .eventscarousel .owl-nav button
+{font-size:26px; background: var(--primary-color) !important; border-radius: 50%; min-height: 34px; min-width: 34px; text-align: center; line-height: 33px; color: var(--white-color);}
+
+.cmn-sliderdots .owl-theme .owl-nav [class*=owl-]:hover,
+.eventscarousel .owl-theme .owl-nav [class*=owl-]:hover {background: var(--primary-color); color: var(--white-color);}
+.eventscarousel .owl-nav button span {font-size: 26px; color: var(--white-color) !important;}
+.eventscarousel .owl-nav button:hover span {color: var(--white-color);}
+
+
+/* ======================================= AI+ Military ======================================= */
+
+
+.block_title_item{width:100%}
+.testimonial_slide_item{flex-direction:column;align-items:flex-start;gap:15px;}
+.testimonial_detail{width:100%;padding:0;}
+.homeslider .owl-nav{display:none;}
+.military_partnership_item ul{padding-left:0;}
+.military_partnership_item ul li:before,.military_partnership_item ul li:after{display:none;}
+.military_partnership_item ul li{padding:0; margin-bottom:20px;}
+.military_partnership_item ul li:hover {background:none;}
+.testimonial_slider .owl-nav{display:none;}
+.testimonial_img{height:220px;overflow:hidden;}
+.testimonial_detail h1,.testimonial_detail label,.testimonial_detail ul{margin-bottom:10px!important;}
+.footer_hero_section .left .btn,.key_certification .btn{width:100%;}
+.market_potential_slide{min-height:auto;}
+.aim-banner h1 {font-size: 28px; line-height: normal !important;}
+.aim-banner p {font-size: 18px;}
+.aiblock_title_wrap {flex-direction: column;}
+.aiblock_title_item {width: auto;}
+
+/*.h2_partners_logo .owl-carousel {margin-bottom:70px;}
+.h2_partners_logo .owl-theme .owl-nav {display: flex !important; top: auto; margin-top: 30px; justify-content: center;}
+.h2_partners_logo .owl-theme .owl-nav button {font-size:26px; background: var(--primary-color) !important; border-radius: 50%; min-height: 34px; min-width: 34px; text-align: center; line-height: 33px; color: var(--white-color);}
+.h2_partners_logo .owl-theme .owl-nav button span {font-size: 26px;  color: var(--white-color) !important;}*/
+
+h1 {font-size: 28px !important;}
+h2, h3.cmntitle {font-size: 24px !important;}
+h3 {font-size: 20px !important;}
+h4 {font-size: 18px !important;}
+
+.cmn-sliderdots .owl-nav button.anyClass {visibility:visible;}
+.video-banner-cnt p.smalltext {margin-bottom:0 !important;}
+.full-Video-card {margin-top:40px;}
+.corevaluebg {padding: 40px 0;}
+.font-20, .articlespage .corevalue-hd {font-size:18px;}
+.h2_get_certified p br {display:none;}
+
+.accr-ansi-compliance {padding-bottom:10px !important; padding-top:0;}
+.accr-iso-iec {padding:0;}
+.happy_to_help_content_accr .btn {width:100%; margin-bottom:20px;}
+
+.tm-hd-section p {border-radius:20px; margin-top:30px; border:none;}
+.tmv3-cards .card {border-radius:20px; padding:30px;}
+.tmv3-cards .card img {height: 100px; width: 100px;}
+.values-content h3 {margin-bottom:5px;}
+.gform-field-label {font-size:18px;}
+
+.KeyBenefits {padding: 40px 0;}
+.cdv5-examdetail .exam-cards {padding:30px 0;}
+
+.AllCertification  {padding-top:0;}
+.top_img-text h1 {max-width: 100%;}
+
+.testimonials_card {margin-left: 0;}
+.teachere_img {border: 4px solid #000; width: 70px; height: 70px; left: -10px; top: -20px;}
+
+.listing-box {margin-bottom: 40px;}
+.blogv2-cnt-large {padding: 20px;}
+
+.cert-spec-section.UpcomingEvents {padding-top:20px;}
+.UpcomingEvents .owl-carousel .owl-item {padding:0;}
+.why-attentevents p {font-weight: 500;}
+
+.labsbanner h3 {color: var(--white-color);}
+.download_cta_popup {width:100%;}
+.ValuePropositions {padding: 40px 0px;}
+
+.tmlinkedin .course_title p {display:none;}
+.AreMostValued .course_btn_wrap h6 {font-weight:600; font-size:16px;}
+
+.pathwaybanner {padding:0; overflow:hidden;}
+.pathwaybanner .banner_text {padding:0 20px;}
+.indication-label-list {flex-direction: column;}
+.indication-label-list .color-block {width: 20px;  height: 20px;}
+.ms_learning_path_desc:before {display:none;}
+.s-count{width: 150px;font-size:24px;}
+span.dashed-border{display: none;}
+.step-card-cover{padding: 15px;}
+
+/* ============ Token V1 ============ */
+.before-line::before {top: 0;width: calc(100% - 15px);height: 1px;}
+.before-line {padding-top: 10px;margin-top: 15px;}
+.GSCard-Box-showdow { max-width: 100px; }
+
+.movingboject1 {left:calc(50% - 50px);}
+.movingboject1 img {width:100px;}
+.target_participants {flex-direction: column;}
+.target_participants div.largebox {min-height: auto;}
+
+.schedulelist { flex-direction: column; margin-bottom:40px;}
+.addi-resources {text-align:center;}
+.addi-resources .hackathonlisting {text-align:left;}
+.hackathontimer, .collaboration-listing ul {gap: 20px;}
+.collaboration-listing ul li {text-align: left;     gap: 20px;}
+
+.toolsrow .toolcard {flex:0 calc(50% - 30px);}
+.ppcChallengesrow .ppcChallengescard {flex: 0 calc(100% - 0px);}
+
+/* PPC Page */
+.ppcChallengesrow {gap: 10px;}
+.Certificationsteps {padding: 0; margin-bottom: 40px;}
+.Certificationsteps img {max-height: 100px;}
+.comprehensive_disclaimers {padding: 20px;}
+.comprehensive_disclaimers ul {margin-left: 20px;}
+.ppc_journeycnt {margin-bottom: 40px;}
+.ppcsteps {margin-bottom: 0;}
+
+.opt_certificate_code span {display:block;}
+
+.footerrowlinks {flex-direction: column;  gap: 0;}
+
+ol.faq-list-title li.primary_color {position:relative;}
+ol.faq-list-title li.primary_color:before {font-family: "Font Awesome 5 Free"; content: "\f144"; display: block; padding-right: 3px; vertical-align: middle; font-weight: 900; position: absolute;  left: -30px;}
+
+.adaptable-bg {padding: 40px 15px;}
+.reattempt_cards {height: auto; margin-bottom: 40px;}
+
+.cardshapebg1:last-child .reattempt_cards {
+    margin-bottom: 0;
+}
+
+.Consultation {background-position: right;}
+.opt_detail-img .opt_detail-imgbg {padding:20px; width: 200px;  margin: 0 auto; margin-bottom:20px;}
+.score-banner .video-banner-cnt {text-align:center;}
+
+/* ======================================= AI Score Tool Form Page CSS Starts ======================================= */
+
+#ai-score-self-assessment-form .You-credit-in-ecellent-sape { padding: 40px 0;}
+
+/* ======================================= AI Score Tool Form Page CSS Ends ======================================= */
+
+.certicard .badge_box {flex-direction: column;gap: 0;}
+.PartnerList .accordion-body{padding-left: 0px;padding-right:0px;}
+
+.sscards {padding:30px 20px;}
+.Partner-logo_name h4 {white-space: normal; min-width: 230px;}
+
+.PartnerList .accordion-item {position:relative;}
+.PartnerList .accordion-button {position: absolute; right: 10px; top: 20px;}
+.PartnerPlan {width:100%;}
+.Partner-connet .btn {min-width: 100%;}
+
+
+.img-bg-over-cover{padding: 3rem 0px;}
+.ROICalculator .gform-theme--foundation .gfield--width-half{grid-column: span 12;}
+
+#ai-score-tool-page .ait-wm-sw-lr {padding-bottom: 60px; justify-content: flex-start;}
+#ai-score-tool-page .ait-wm-sw-lr h3 {margin-bottom:0;}
+
+
+.single-blogs h1 {font-size:28px !important;}
+.scoreherocard {padding:30px;}
+
+.scorev2card {padding: 40px 20px;}
+#ai-score-tool-page .finput-wrapper {width:100%;}
+#ai-score-tool-page .finput-content {flex-direction: column;}
+
+/* ======================================= Certification Detail V6 Start ======================================= */
+.opt_detailsection {margin-bottom:40px !important;}
+.Overviewtable {border:none; padding:0;}
+.Overviewrow {gap: 0; flex-direction: column;}
+.Overviewrow div:first-child, .Overviewrow div:last-child {justify-content: flex-start; border-radius:0;}
+.skillspills, .edcardsmain {flex-direction: column;}
+.edcardsmain .edcardcol {width:100%;}
+.ab-cta-section {background-position: left;}
+.skillspillsmain {flex-direction: column; gap: 20px;}
+
+.viewpostbtn {z-index:99;}
+.skillspills {width:100%;}
+
+.is-sticky.indextabs {top:73px; padding: 15px 0 5px 0;}
+.is-sticky.indextabs .common-cnt {padding:0; }
+
+/* ======================================= Certification Detail V6 End ======================================= */
+
+/* ======================================= Home Banner for Events ======================================= */
+.opt_banner.homeeventsbanner .eventbannerimg {min-height: 200px;}
+.opt_banner.homeeventsbanner h2 {font-size: 20px !important;}
+/* ======================================= Home Banner for Events end ======================================= */
+
+section.atp-banner::before{display: none;}
+.atp-banner .container {background-color:transparent;padding-bottom: 0rem;}
+
+.pub-container {border:none;}
+.pub-summary {border-right:none; padding-right:0;}
+.page-template-tpl-atp .btn {height:auto; min-height:44px; line-height:normal; padding:10px; width: 100%;}
+
+.page-template-tpl-atp .events_card .eventtimelisting .btn {padding:0 10px; width:auto;}
+
+.single-publications .pub-summary {padding-top:0 !important;}
+.single-publications h4 {font-size:20px !important;}
+
+.event_info .event_datelocation {font-size: 16px !important;}
+
+.rCertiCard a { font-size: 14px; padding: 9px; }
+.RoardCard{padding-left: 0; padding-right: 0;}
+.RoardCard::before, .RoardCard::after {left: 35px;}
+.UpcomingCert .container, .LatestCert .container, .CompletedCert .container {padding: 0px var(--bs-gutter-x, .75rem);}
+.round-pointstop {margin-left: 32px;}
+.round-pointsbottom { margin-left: 32px; margin-bottom: -10px; }
+
+.WhyACard{padding: 20px 15px;}
+.WhyACard p{font-size:1rem;}
+
+.APReadyCard{padding-top: 2rem;padding-bottom:2rem;}
+
+.ABM-Card{padding: 30px 18px;}
+.BMRContent{padding: 30px 15px;}
+.CommitmentStru{padding:50px 0px;}
+
+.custom-nav .OwlArrow span {display: none;}
+.custom-nav .OwlArrow {width: 38px;}
+.BringCard{padding:16px;}
+.YourExpertise, .DiscoverMembers{padding:40px 0px;}
+.HomeSlideshow{padding: 50px 0px;}
+
+.AppFormBox .gform_page_footer .button {min-width:100%; margin-bottom:10px; flex: 1; white-space: nowrap;}
+.YourExpertise .section_cta .btn {min-width:90%; max-width:90%; margin-bottom:10px; flex: 1; white-space: nowrap;}
+.JourneyList::before {width: 5px;height: 100%;margin: 0px auto;}
+.JourneyCard {flex: 100%;position: relative;background-color: var(--white-color);margin-top: 40px;}
+.TechParCard{padding:24px;}
+.EntParBen{padding:20px;}
+.CTAsakshamBanner{padding: 20px;}
+
+.CertificationFlex {flex-wrap: wrap;}
+.CertificationFlex .CertificationItem {max-width:100%; width:100%;}
+.CertificationFlex .CertificationItem .CertiCard a {padding: 5px 10px;}
+
+.SlideImg{min-height: 300px;}
+.HomeSlideshow .owl-nav.anyClass { display: none; }
+.HomeSlideshow .SlideInfo .btn { padding: 0px 8px; }.HomeSlideshow .SlideInfo .btn { padding: 0px 8px; font-size: 14px;}
+.multi-level-menu-wrapper .subMenu.active{height: calc(100% - 85px);}
+.h2_blog_resource_box p a { padding: 0px 2px; }
+
+.subtab-slider-wrapper {display:none !important;}
+
+}
+
+
+@media (max-width:640px) {
+
+/* ============ Certification Category V2 ============ */	
+
+.certifications-tech-img {position: relative;padding: 50%;}
+.certifications-tech-img img {position: absolute; top: 0; object-fit: cover; left: 0; right: 0; height: 100%; object-position: left;}
+
+/* ============ Ai CertLab V1 ============ */
+.rich-text-video {height: 320px;}	
+
+.JoinOurCertified .ctabanner-content{left: 2rem;}
+
+/* mobile image banners */
+
+section.imgbanner {background-size: auto 240px !important; }
+section.imgbanner .video-banner-cnt {margin-top: 250px;}
+section.imgbanner .video-banner-cnt .btn {width:100%;}
+
+.certification-cate .certifications-tech-img {padding:0;}
+.certification-cate .certifications-tech-img img {position:static; height:240px; object-fit:cover; object-position: right;}
+.certification-cate .top_img-text {position:static; transform: none; margin:30px 0 40px 0;}
+.certification-cate .col-lg-12 {display: flex; flex-direction: column-reverse;}
+
+.flip-card {width:calc((100% - 50px) + 50px / 1);}
+.flip-card:before {rotate: 90deg; top: calc(100% + 30px); left: 47%; transform: translate(-50%, 0);}
+
+.toolsrow {gap: 20px;}
+.toolsrow .toolcard {flex:0 calc(50% - 15px); max-width: calc(50% - 10px);  min-width: calc(50% - 10px); margin-bottom: 0;}
+
+/* ======================================= 10x Page Starts ======================================= */
+
+#tenx-page .tenx-career { padding: 40px 0; }
+#tenx-page .tenx-career .right-wrapper .container-wrapper {display: flex;width: 80%;}
+#tenx-page .tenx-career .right-wrapper .main-wrapper { width: 80%; display: flex; justify-content: center !important; margin: 0 auto !important;}
+.p7040 {padding: 40px 0; }
+#tenx-page .tenx-career-impact .right-wrapper .card-container { width: 95%; flex-direction: column; text-align: center; }
+#tenx-page .aie { align-items: start; }
+#tenx-page .tenx-career .right-wrapper .primary-bg-overlay .primary-bg.d-flex.justify-content-end{
+    border-radius: 0 16px;
+}
+/* ======================================= 10x Page Ends ======================================= */
+
+.RoardCard::before, .RoardCard::after {left: 32px;}
+.round-pointstop, .round-pointsbottom {margin-left: 29px;}
+
+.CS_CartItem{gap: 15px;align-items: start;flex-wrap: wrap;position: relative;}
+.CS-ListView::before{top: 30px;}
+
+.abv2-banner .btn-outline{margin-top: 1rem !important;}
+.vendor-banner a + a { margin-top: 1rem; }
+.Certifications{padding: 30px 15px;}
+.CertiCard{gap: 10px;}
+
+}
+
+@media screen and (max-width:480px) {
+.date_grid {flex-direction: column;}
+.navbar>.container-fluid {padding: 0 var(--bs-gutter-x, .75rem);}	
+.OurCertifications .col-lg-2 {width:100%;}
+.btn-auto{height: auto;line-height:normal;padding-top: 20px;padding-bottom:20px;}
+
+/* ======================================= AI Score Tool Page CSS Starts ======================================= */
+
+#ai-score-tool-page .finput-content .img-wrapper { height: 45px; padding-inline: 15px; }
+#ai-score-tool-page .finput-content .fi { font-size: 14px; }
+.cya-ai-score-container .finput-content input {height: 48px !important; }
+.cya-ai-score-container.cya-ai-score-bg h2 { font-size: 18px !important; }
+
+/* ======================================= AI Score Tool Page CSS Ends ======================================= */
+
+/* ======================================= AI Score Tool Form Page CSS Starts ======================================= */
+
+#ai-score-self-assessment-form .hero-section { min-height: 70vh; display: block; padding: 40px 0; } 
+#ai-score-self-assessment-form .mw100 { width: 100%;}
+#ai-score-self-assessment-form .You-credit-in-ecellent-sape { padding: 40px 0 !important;}
+
+/* ======================================= AI Score Tool Form Page CSS Ends ======================================= */
+/* ======================================= 10x Page Starts ======================================= */
+
+#tenx-page .tenx-career .right-wrapper .container-wrapper {  width: 100%; }
+#tenx-page .tenx-career .left-wrapper .primary-bg-overlay img {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#tenx-page .tenx-career .right-wrapper .main-wrapper {
+    width: 90%;
+}
+
+/* ======================================= 10x Page Ends ======================================= */
+.round-pointstop, .round-pointsbottom {margin-left: 22px;}
+.RoardCard::before, .RoardCard::after {left: 25px;}
+
+.YourExpertise .section_cta { display: flex; justify-content: center; flex-direction: column; align-items: center; gap: 1rem; }
+.NewPossibilities .btn {flex: 0 0 100%;}
+
+.RealCard{flex-wrap: wrap;gap:10px;padding:20px;}
+
+}
+
+
+@media (min-width: 992.5px) {
+.row-item h6 {display: none;}
+.heading .row-item:first-child, .row-item.subheading {flex: 0 0 25%;}
+.certification-vs-completion .heading .row-item:first-child, 
+.certification-vs-completion .row-item.subheading,
+.completion_grid .heading .row-item:first-child, 
+.completion_grid .row-item.subheading 
+{flex: 1;}
+}
+
+@media (min-width: 1199px) {
+/*.navbar-expand-lg .navbar-nav {margin-left: 20px; margin-right:20px;}	*/
+.WCAI .g-5 {--bs-gutter-x: 8rem;}
+}
+@media (min-width: 1400px) {
+.cta-cnt-area {padding: 0 50px;}
+}
+@media (min-width: 1500px) {
+.cta-cnt-area {padding: 0 92px;}
+}
+@media (min-width: 1600px) {
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+max-width: 1320px;
+}
+
+}
+@media (min-width: 1800px) {
+.container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+max-width: 1320px;
+}
+
+}
+@media screen and (min-width:1200px) and (max-width:1365px) { 
+.navbar-expand-lg .navbar-nav {margin-left:0}
+.navbar-light .navbar-nav .nav-link {font-size:13px;}
+}
+@media (max-width:575.5px) {
+.team-img {width:300px; height:300px;}
+.team-linkedin {top:270px;}
+.why-attentevents .arrowcnt {margin-bottom: 20px; flex: 0 0 100%; }
+.BBCard {min-height: 100%;}
+.BoardMemberBox .ourteam-linkedin { top: 270px;}
+.hline {width: 46px;height: 1px;}
+}
+
+.cert-catlist .container {margin-bottom:70px;}
+.cert-catlist .container h2.cmn-hd {text-align:left; border-bottom:solid 1px #333; padding-bottom:20px; margin-bottom:50px;}
+
+/* shorted code */
+ 
+@media screen and (min-width:1441px) {
+.banner-video-section {min-height: 640px;}	
+.certifications-tech-img img {height: 640px;}
+.aim-slider .item img {height: 400px; object-fit: cover;}
+.why_ai_military img {max-height: 460px;}
+}
+
+@media (min-width: 1360px) {
+.container {max-width: 1320px;}
+}
+
+@media (max-width: 991.5px) {
+    
+    /* ======================================= AI Score Tool Page CSS Starts ======================================= */
+    
+    #ai-score-tool-page .card-wrapper { width: 100%; }
+    #ai-score-tool-page .cw50m100 { width: 100%; }
+    #ai-score-tool-page .table tbody tr td { padding: 15px; }
+    #ai-score-tool-page .mw100 { width: 100%; }
+    
+    /* ======================================= AI Score Tool Page CSS Ends ======================================= */
+
+    /* ======================================= 10x Page Starts ======================================= */
+
+    #tenx-page .tenx-career-impact .right-wrapper {  clip-path: none}
+    #tenx-page section.tenx-banner { background-size: auto 438px !important; background-position: top right !important; padding: 0; min-height: auto; background-repeat: no-repeat !important; }
+    #tenx-page .video-banner-cnt h1, #tenx-page .video-banner-cnt h2 {color: var(--white-color) !important;}
+
+    /* ======================================= 10x Page Ends ======================================= */
+
+}
+
+@media (max-width: 1200px) {
+    /* ======================================= AI Score Tool Page CSS start ======================================= */
+
+    #tenx-page .gamified-ai-powered-quiz .content-wrapper .absolute-content { width: 100%; border-radius: 0; }
+
+    /* ======================================= AI Score Tool Page CSS Ends ======================================= */
+}
+
+
+@media (max-width: 640px) {
+    /* ======================================= AI Score Tool Page CSS start ======================================= */
+
+    #tenx-page section.tenx-banner { background: url(../images/tenx-banner-bg-dark.png) no-repeat center !important;background-position: right top !important;background-size: auto 240px !important;}
+
+    /* ======================================= AI Score Tool Page CSS Ends ======================================= */
+
+}

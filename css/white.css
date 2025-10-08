@@ -1,0 +1,1082 @@
+root {
+  --primary-color: #CFA935;
+  --secondary-color: #CFA935;
+  --body-font-color: #000000;
+  --light-gray-color: #F3F4F6;
+  --light-gray-color1: #e4e4e4;
+  --black-color: #000000;
+  --white-color: #ffffff;
+  --darkgrey-color: #F3F3F3;
+  --hover-color: #BA982F;
+}
+
+body{
+    background-color: #FFF;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus, 
+input:-webkit-autofill:active  {
+  -webkit-text-fill-color: #000 !important;
+}
+
+.header-section {background:var(--white-color);}
+
+/* white text*/
+.midd-banner-slide .video_title, .navbar-light .navbar-nav .nav-link a, .cta-cnt-area h3, .btn-primary:hover, .btn-check:focus+.btn-primary, .btn-primary:focus, .btn-primary:active:focus, .values .card:hover h3, .certi-listing-brief h3, .home .navbar-light .navbar-nav .nav-link, .row_innter-item .btn:hover, .cta-cnt-area p, .awsm-job-form-inner h2, .awsm-job-form-group label {color: var(--white-color);}
+
+.home .navbar-light .navbar-nav .nav-link
+
+/* black text*/
+body, h1, h2, h3, h4, h5, h6, p, .common-cnt small, .home-accordion .accordion-button, .copyright .container, .home-accordion .accordion-body, .header-section.sticky .navbar-light .navbar-nav .nav-link, .common-cnt p, .dropdown-item, .common-cnt h2, .dropdown-item:focus,  h1.cmn-hd, h2.cmn-hd, .navbar-light .navbar-nav .nav-link, .dropdown-item.active, .dropdown-item:active, .corevalue-hd, .listing-pages h3 a, .myforms .form-control, .awsm-job-form-control, .evlevate_content_bt p, .evlevate_content p, .row-item.subheading, .cmn-section p a:hover, .corevalue-hd span, .ftr-link li a, .ftr-newsletter input.emailfield, .whyjoin-grids .iconwithtext, .career-tabs .accordion-header span, ul li, div, .heading .row-item, .contact-form label, .indextabs ul li a {color: var(--black-color);}
+
+/* primary Color */
+.dropdown-item:hover, .dropdown-item.active, .dropdown-item:active {color: var(--primary-color);}
+.dropdown-item:focus, .dropdown-item:hover, .dropdown-item.active, .dropdown-item:active {/*border-bottom-color:var(--primary-color);*/ }
+
+.team-img img, .certified-icon {border:solid 1px #aaa;}
+
+.banner-tags .btn, .awsm-job-form-inner, .row_innter-item .btn {background:var(--black-color); border-color:var(--black-color); color:#fff;}
+.home-accordion .accordion-item {border:none; border-bottom: solid 1px var(--grey-color-70);}
+
+.sidebar-cnt {background: var(--white-color); border:solid 1px #555;}
+.values .card {background: #F3F3F3;border-color: rgba(0,0,0,.125);}
+
+
+.home-accordion .accordion-button::after {background-image: url(../images/accordion-plus-golden.svg);}
+.home-accordion .accordion-button:not(.collapsed)::after {background-image: url("../images/accordion-minus-golden.svg");}
+.ftr-newsletter input.ftr-submitbtn {background:url("../images/arrow-submit-light-theme.svg") no-repeat center;}
+.footer-section {background: url("../images/footer-bg-lt.png") no-repeat right bottom;}
+
+.ftr-social a img {filter: invert(1);}
+.copyright .container, .footer-section .container {border-top-color:var(--grey-color-70);}
+.header-section.sticky {background:var(--white-color);}
+
+.contact_heade {border-bottom-color:var(--primary-color);}
+.myforms .form-control {border-bottom:1px solid rgba(0,0,0, 0.5);}
+
+
+.awsm-job-form-control {border:1px solid rgba(0, 0, 0, 0.3); background:#fff;}
+.contact-form .form-control {background:var(--white-color) !important;}
+
+
+
+.dropdown-menu {background:var(--white-color);}
+
+.dropdown:hover > .dropdown-menu, .dropend:hover > .dropdown-menu {box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;}
+
+.midd-inner-banner:before {height: 100%;background-image: linear-gradient(to top, rgba(255,255,255,0), rgba(255,255,255,1));}
+#sgpb-popup-dialog-main-div {background: #ffffff !important;}
+.sgpb-popup-dialog-main-div-wrapper .form-control {color: var(--black-color) !important;}
+
+
+
+/*=========================== White Mode Css  Ketan  ===========================*/
+/* Contact Us page  */
+
+h3, h4, .copyright .col-lg-12, .ftr-newsletter h3, .contactt_details a, .contactt_details, .listing-pages h1, .listing-box, .articlespage .corevalue-hd a, .esteemed-partners-cnt .corevalue-desc, .blog-bg h1.cmn-hd, 
+.cmn-section, .wp-block-heading
+  {
+    color: var(--black-color);
+  }
+.testimonial-page h2.text-white {color: var(--black-color) !important;}  
+.contact_list-item .icon svg, .contact_list-item .icon svg path{fill: var(--white-color);}  
+.blog-bg, .certification-page {background: url(https://i0.wp.com/www.aicerts.ai/wp-content/themes/aicerts/images/white_theme-bg.png) no-repeat top right; background-size:60%;}
+
+.core_value{background: transparent;}
+.tm_card{background: var(--white-color);border: 1px solid rgba(0,0,0,.125);} 
+.tm_card:hover h4 a {color: var(--black-color);}
+.list-of_the-course .tm_card:hover h4 {color: var(--white-color);}
+.importance_heading a:hover {color: var(--black-color);}    
+.page-template-templates .contactt_details .form-control-label, 
+.page-template-templates .contactt_details .form-control:focus,
+.page-template-become-a-trainer .contactt_details .form-control-label,
+.page-template-become-a-trainer .contactt_details .form-control:focus
+ {color: var(--black-color);}
+.page-template-templates .contactt_details .form-control,
+.page-template-become-a-trainer .contactt_details .form-control
+ {border-color: var(--body-font-color);}  
+.dropdown-select.wide .list {background: var(--black-color);}
+.dropdown-select .list {box-shadow: 0 0 0 1px rgba(0, 0, 0, 1);}
+
+/*=========================== White Theme Css After Live  Ketan  ===========================*/
+.midd-banner-slide .video_title, .navbar-light .navbar-nav .nav-link a, .cta-cnt-area h3, .btn-primary:hover, 
+.btn-check:focus+.btn-primary, .btn-primary:focus, .btn-primary:active:focus, .values .card:hover h3, 
+.certi-listing-brief h3, .home .navbar-light .navbar-nav .nav-link, .row_innter-item .btn:hover, .cta-cnt-area p, 
+.awsm-job-form-inner h2, .awsm-job-form-group label 
+{
+    color: var(--white-color);
+  }
+  
+.home .navbar-light .navbar-nav .nav-link {color: var(--black-color);}  
+  
+  
+.page-template-contactus-template .contactt_details .form-control {
+    border-color: var(--body-font-color) !important;
+}  
+.contact_list-item .icon svg, .contact_list-item .icon svg path
+  {
+    fill: var(--white-color);
+  }  
+.blog-bg, .certification-page 
+  {
+    background: url(https://i0.wp.com/www.aicerts.ai/wp-content/themes/aicerts/images/white_theme-bg.png) no-repeat top right;
+    background-size: 60%;
+  } 
+  .core_value{background: transparent;}
+  .tm_card{background: var(--white-color);border: 1px solid rgba(0,0,0,.125);} 
+  .importance_heading a:hover {color: var(--black-color);}
+  
+.dropdown-select .option:hover, .dropdown-select .option:focus{color: var(--black-color);}
+.dropdown-select .option{color: var(--black-color);}
+.page-template-partner-template .sgpb-main-html-content-wrapper .myforms p .form-control {border-color: rgba(0, 0, 0, 0.5);}
+/* .aicertsform.contactt_details {background-color: #fafafa;}
+.aicertsform .btn-primary.disabled, .aicertsform .btn-primary:disabled {color: var(--primary-color);border-color: var(--primary-color);}
+.aicertsform .btn-primary{background: var(--primary-color);color: var(--white-color);} */
+
+/* ======================================= Train and Certify ======================================= */
+/*.gform-theme--framework .gfield .gfield_validation_message{ color: red; }*/
+.gform-theme--framework .gform-field-label, .gform-theme--framework .gfield_description {
+    color: var(--black-color) !important;
+}
+
+
+
+
+
+/* ======================================= New Become A Trainer (Gravity Page Form) ======================================= */
+.gravity-page_form .ginput_container input, .gravity-page_form .ginput_container_textarea textarea, .gravity-page_form .address_country .ts-wrapper.single.input-active .ts-control
+{
+  background: transparent !important;
+  border-color: var(--body-font-color) !important;
+}
+.gravity-page_form .gfield_label, .gravity-page_form label.gform-field-label {color: var(--black-color);}
+.gravity-page_form .gform_title {border-color: var(--body-font-color) !important;}
+  
+.cp-dropdown .dropdown-select, .cp-dropdown .dropdown-select:hover, .cp-dropdown .dropdown-select:focus {border:solid 1px #555; background:var(--white-color) !important;}
+.cp-dropdown .dropdown-select.open .list {background:var(--white-color) !important;}
+.cp-dropdown .dropdown-select .dd-searchbox {background:var(--white-color) !important; color:var(--black-color) !important; border:solid 1px #555;}
+.cp-dropdown .dropdown-select .option:hover, .cp-dropdown .dropdown-select .option:focus {background:var(--primary-color) !important; color:var(--white-color);}  
+
+
+.typefile span.spacing_cover, .wpcf7-form-control-wrap:hover + br + .spacing_cover {background: var(--light-gray-color);}
+input[type=file]::file-selector-button {
+  border: none;
+  background-color: var(--light-gray-color) !important;
+  color: var(--body-font-color);
+}
+.gravity-page_form .ginput_container input[type="file"]::-webkit-file-upload-button {
+  color: #000;
+}
+.country-select .country-list {background-color: var(--light-gray-color) !important; border-color: rgba(0, 0, 0, 0.3);}
+.country-select .country-list .divider {border-color: rgba(0, 0, 0, 0.1);}
+.contact_list-item .icon svg {    filter: invert(1);}  
+.ftr-newsletter .gform-theme--foundation  form .gform_image_button.button {filter:none;}
+
+.gform_fields .ginput_container input[type=text], .gform_fields .ginput_container input.large, .gform_fields .ginput_container textarea.textarea.small, .gform-theme--foundation .ginput_complex select, .gform-theme--foundation .gfield select 
+{color: var(--black-color);  background-color: var(--whhite-color); border-color: var(--body-font-color);}
+.contact-form .gform-theme--framework .gform-field-label {color: var(--black-color) !important; }
+.gform-theme--framework .gf_progressbar {background: var(--light-gray-color);}
+
+
+/* ======================================= Find a Training Partners ======================================= */
+.FindInpute, .FindPartners .row-item {background: transparent;}
+/* ======================================= Certification vs Completion ======================================= */
+.certification-vs-completion .row-item:nth-child(2), .certification-vs-completion .row-item:nth-child(3), .completion_grid .table-row:nth-child(odd) { background: transparent;}
+.certification-vs-completion .row-item:nth-child(2)::before {display: none;}
+.white_theme {display: block;}
+.black_theme {display: none;}
+
+.examdetail {background:var(--light-gray-color);}
+.opp-slider .card {background:var(--light-gray-color);}
+.exam-cards .card {background:var(--white-color);}
+.exam-cards .card:hover h3 {color:var(--white-color);}
+
+.opportunities-slide .owl-theme .owl-dots .owl-dot.active {border-color:var(--primary-color);}
+.opportunities-slide .owl-theme .owl-dots .owl-dot span {background:var(--black-color);}
+.opportunities-slide .owl-theme .owl-dots .owl-dot.active span {background:var(--primary-color);}
+
+/* ======================================= Gravity Popup Form ======================================= */
+.gravity-popup_form .popup-content{background: var(--white-color);}
+.gravity-popup_form .gform_required_legend, .gravity-popup_form .gfield_label{color: var(--black-color) !important;}
+.gravity-popup_form .gform-theme--foundation .gfield input, .gravity-popup_form .focus .ts-control, .gravity-popup_form .ts-control,
+.gravity-popup_form .gform-theme--foundation .gfield textarea {border-bottom-color: var(--body-font-color) !important;color: var(--black-color) !important;}
+.gravity-page_form .ts-dropdown {background: var(--white-color);}
+.gravity-page_form .ts-wrapper:not(.form-control):not(.form-select).single .ts-control {background-color: transparent !important;border: 1px solid var(--body-font-color) !important;}
+
+/* ======================================= Exam Process ======================================= */
+.exam-faqs_section .accordion-body {padding: 1rem 0rem;border-top: 1px solid #f3f3f3;}
+.exam-faqs_section .accordion-item {background: transparent;}
+
+/* ======================================= Become an Authorized Partner ======================================= */
+.BecomeAP .authorized-partners-banner
+{
+  background: url(https://i0.wp.com/www.aicerts.ai/wp-content/themes/aicerts/images/white_theme-bg.png) no-repeat top right; background-size:60%;
+}
+
+/* ======================================= Authorized Training ======================================= */
+.TrainandCertify .ts-control {background: transparent;border-color: var(--body-font-color);}
+.TrainandCertify .ts-dropdown {background: var(--white-color);color: var(--black-color);}
+
+/* ======================================= Events Details Page ======================================= */
+.top_banner-imgvideo img, .time_event span.icon, /*ul.Attend_list li img,*/ .video_vector, .top_banner-imgvideo video {filter: invert(1);}
+.line {background: var(--black-color);}
+.date_location {background: var(--black-color);color: var(--white-color);}
+/*.primary_bg, .OurPartner_card, h2.resp-accordion  {background: #F3F3F3;}*/
+.resp-tabs-list li {background:#F3F3F3;color: #2A2E36;}
+.resp-tabs-list li.resp-tab-active {border-top-color: rgba(0,0,0,.125);}
+/* ul.Attend_list li , .TeaserVideo p, .TeaserVideo ul li {color: var(--black-color);border-bottom-color: var(--body-font-color);} */
+.OurPartner_slider.owl-theme .owl-nav button {border-color: var(--black-color);color: var(--black-color);}
+.resp-arrow{border-top-color: var(--black-color) ;}
+/*.hr-line_item {background: #F3F3F3;}*/
+.btn-link:hover {color: var(--black-color);}
+.TeaserVideo h3, .TeaserVideo h2, .TeaserVideo  {color: var(--white-color);}
+.OurPartner_card {background:var(--light-gray-color);}
+
+/* ======================================= Certificates Master ======================================= */
+.certi-card{background: var(--white-color);border-color: #BFC0C2;}
+.Benefits_card {background: #FDF9F0;}
+.text-link {color: var(--black-color);}
+.certi_image::after {background: transparent;}
+.top_img-text p {color: var(--black-color);}
+.certification-master h1, .certification-master p, .UpliftYourCareer h2, .UpliftYourCareer h4 {color: var(--white-color);;}
+.certi_image {border-radius: 0px; margin-bottom: 20px;}
+.ai_vector1 {opacity: 0.4;filter: invert(1);}
+ul.certi_list li a {border-bottom-color:#FDF9F0;}
+
+/* mobile custome sidebar */
+
+.multi-level-menu-wrapper {background: var(--white-color);}
+.multi-level-menu-wrapper ul li a {color: var(--black-color); border-bottom: solid 1px #F3F4F6;}
+.multi-level-menu-wrapper .subMenu, .multi-level-menu-wrapper .mainMenu {background: var(--white-color);}
+ .multi-level-menu-wrapper .subMenu .backTrigger {background: #F3F4F6; border-bottom: solid 1px #F3F4F6; color:#000;}
+
+
+/* Partner Summit 2024 */
+.partner_summit_form{background:var(--white-color);}
+.partner_summit_form .gfield--type-section h3{color:var(--black-color);}
+.partner_summit_form input[type="text"],.partner_summit_form input[type="email"],.partner_summit_form input[type="tel"],.partner_summit_form textarea,.partner_summit_form select{border-color:var(--grey-color-70)!important;background:var(--grey-color-90)!important;}
+.partner_summit_form input[type="text"]::placeholder,.partner_summit_form input[type="email"]::placeholder,.partner_summit_form input[type="tel"]::placeholder,.partner_summit_form textarea::placeholder,.partner_summit_form select::placeholder{color:var(--black-color);}
+.partner_summit_form .gform-theme--foundation .chosen-container-single .chosen-single{border-color:var(--grey-color-70)!important;background:var(--white-color)!important;color:var(--black-color);}
+.gform-theme--foundation .chosen-container-single .chosen-single div b{border-right:1px solid var(--darkgrey-color);border-bottom:1px solid var(--darkgrey-color);}
+#input_13_10_6_container:before,#input_13_21_6_container::before{border-right:1px solid var(--pure-black);border-bottom:1px solid var(--pure-black);}
+h2.resp-accordion {background: #F3F3F3; color: #2A2E36;}
+
+
+/* ======================================= Certification Category V1 ======================================= */
+.testimonials_card, .howtostep {background: #F3F3F3;}
+.teachere_img {border-color: var(--primary-color);}
+.testimonials_card p {color:var(--black-color);}
+
+.dropdown-menu .menu-item-has-children::after {border-left-color: var(--black-color) !important;}
+
+.dropdown-menu .menu-item-has-children .dropdown-menu {border-left: solid 1px #ddd; box-shadow: rgba(100, 100, 111, 0.1) 5px 0px 10px 0px !important;}
+
+
+
+.dropdown-menu .menu-item-has-children.active ul li a,
+.dropdown-menu .menu-item-has-children.active ul li.menu-item-has-children.active ul li a {color: var(--black-color);}
+
+/* ======================================= Certification Category V2 ======================================= */
+.certification-cate h1.cmn-hd {color: var(--white-color);}
+.gloy_bg{background: var(--light-primary);}
+
+/* =======================================  Certification Detail V3 ======================================= */
+.dark_bg, .option_card, .faqs-slide .home-accordion .accordion-button {background-color: var(--grey-color-90);}
+.keycard{background: var(--white-color);border: 1px solid rgba(0,0,0,.125);}
+.eligiblity_content h2, .eligiblity_content p, .DiscoverPrograms h2 {color: var(--white-color);}
+.Learners_card, .course_card{background: var(--white-color);}
+.faqs-slide .home-accordion .accordion-button::after{filter: brightness(0.5);}
+.load_more-btn .link-primary:hover {color: var(--white-color);}
+.owl-theme.Certificate_slide .owl-dots .owl-dot span{background: var(--black-color);}
+.exam_icon {filter: brightness(0.5);}
+.exam-cards .card:hover .exam_icon {filter: brightness(1);}
+
+
+/* home2 */
+.h2_popular_certifications, .h2_happy_to_help, .h2_learners, .h2_blog_resource, .h2_why_ai_certs, .h2_get_certified, .h2_faq {background: rgb(244, 204, 0);}
+.h2_tabs .nav-item.show .nav-link, .badge_box h6, .h2_learners_desc p, .h2_learners_header h6, .page-template-tpl-index2 .footer-section .ftr-link li a, .page-template-tpl-index2 .footer-section h3.cmn-hd, .h2_what_aicerts_content h2, .h2_what_aicerts_content p, .home_version2 h2 {color:var(--black-color);}
+.h2_tabs .nav-link.active, .h2_tabs .nav-link.active:hover, .h2_tabs .nav-link:hover, .h2_happy_to_help h2 {color:var(--white-color);}
+.h2_tabs .nav-link {background:var(--white-color); color:var(--black-color); border-color:var(--grey-color-90);}
+.badge_box {background:#FDF9F0;}
+
+.h2_what_aicerts, .h2_hot_certifications {background-color: var(--light-gray-color); border-bottom-color:var(--grey-color-70);}
+.h2_blog_resource:before, .h2_blog_resource:after, .h2_get_certified:before, .h2_get_certified:after {display:none;}
+
+
+.h2_why_ai_certs {border-bottom-color:var(--light-gray-color);}
+.h2_faq .accordion-button, .h2_faq .accordion-button:hover {background: var(--grey-color-90); color:var(--black-color);}
+
+
+
+.page-template-tpl-index2 .navbar-light .navbar-nav .nav-link, .page-template-tpl-index2 .navbar-light .navbar-nav .nav-link a, .h2_blog_resource_box p a {
+  color: var(--black-color);
+}
+.h2__maintabs .nav-link {
+  color: var(--body-font-color) !important;
+}
+.h2__maintabs .nav-link.active {
+  color: var(--black-color) !important;
+}
+.discover_more_link:hover {
+  color: var(--black-color);
+  filter: brightness(1);
+}
+.aicerts_lab_white {
+  display: none !important;
+}
+.aicerts_lab_black {
+  display: block !important;
+}
+.h2_aicerts_lab {
+  background-color: var(--white-color);
+  border-bottom:solid 1px var(--grey-color-70);
+}
+.h2_partners_logo {
+  background-color: var(--white-color);
+
+}
+.h2_faq .accordion-body {
+  background: var(--white-color);
+  color: var(--black-color);
+  border: 1px solid var(--grey-color-90);
+  border-bottom:none;
+}
+.h2_faq .accordion-body p {
+  color: var(--black-color);
+}
+.h2_faq .accordion-item {border-color: var(--grey-color-70); box-shadow:0px -1px 0px var(--white-color);}
+.h2_faq .accordion-item:last-child {border-bottom:solid 1px  var(--grey-color-70);}
+
+.h2_faq .accordion-button:not(.collapsed)::after, .h2_faq .accordion-button::after {filter: brightness(0);}
+
+/* overall site enhancement */
+.h2_blog_resource_tabs .nav-link {background:var(--grey-color-90); color: var(--black-color);}
+.h2_blog_resource_tabs .nav-link img {filter: brightness(0.5);}
+.h2_learners_box {border-color:var(--grey-color-70);}
+
+
+/* overall site enhancement end */
+
+
+
+
+
+/* =======================================  Certification Detail V4 ======================================= */
+.CourseCompletion, .h2_aicerts_banner {background: var(--light-gray-color);}
+.indextabs {border-color: var(--grey-color-70);}
+
+
+.h2_blog_resource, .h2_partners_logo {border-bottom:solid 1px var(--grey-color-70);}
+.home_version2 .owl-nav button span {color: var(--black-color);}
+.ftr-newsletter .captcha_hide_text a:hover {color:var(--black-color); text-decoration: underline !important;}
+
+
+
+/* ======================================= Role Based Solution V1 ======================================= */
+.gray-to-white_text, .Top-Certi_card h4 {color: var(--black-color);}
+.Top-Certi_card h4 .primary_color { color: var(--primary-color); }
+.owl-theme.Top-Certi_slider .owl-dots .owl-dot.active {border-color:  var(--primary-color);}
+.owl-theme.Top-Certi_slider .owl-dots .owl-dot.active span, .owl-theme.Top-Certi_slider .owl-dots .owl-dot span {background: var(--primary-color);}
+.CareerPaths_role select {border: 1px solid var(--grey-color-70);}
+.Personalized_Card, .Expert-level  { background: var(--grey-color-90) !important; }
+span.icon_text{color: var(--white-color);}
+.Expert-level {
+  margin-top: 0 !important;
+  padding: 4rem 0rem 5rem !important;
+  margin-bottom: 5rem !important;
+}
+.rbs-banner .overaly_conten h1, .Expert-level .card_content p {color: var(--white-color);}
+.Expert-level .section_header p, .recom_card span.icon_text, .parallel_roles .list-group-item a {color: var(--black-color);}
+.recom_card, .parallel_roles .list-group-item, .CareerPaths_role select {background-color: var(--light-gray-color);}
+.Training_Role .owl-dots .owl-dot.active span, .Training_Role .owl-dots .owl-dot span {background: var(--primary-color);}
+.Training_Role  .owl-dots .owl-dot.active {border-color:  var(--primary-color);}
+
+
+
+
+
+
+
+
+
+/* ======================================= Ai CertLab V1 ======================================= */
+.certs_lab-text, .gray-to-white_text, .white_text {color: var(--black-color);}
+.certs_lab-logo, .rich-text-video {background: var(--light-primary);}
+/*.video-with-text_overlay::before{display: none;}*/
+.no_overlay-header {background-color: var(--pure-black);}
+
+
+
+/* ======================================= AI Certified Trainer ======================================= */
+.certs_lab-text, .gray-to-white_text, .white_text {color: var(--black-color);}
+.pro-h_card, .text-quality, .icon-quality, .ap_step, .AP_card, .aicerts_testimonial {background: var(--grey-color-90);}
+.aicert-video-with-text_overlay .white_text, .aicert-video-with-text_overlay .overaly_video-content .aicerts-brand_logo  {color: var(--white-color);}
+.text-quality {box-shadow: 0px 0px 18.75px 0px #E2E2E2 inset;}
+
+.accordion-body a:hover {color: var(--black-color) !important;}
+
+
+
+
+
+
+
+
+
+
+.labsbanner h1, .labsbanner p {color: var(--white-color);}
+
+.eventstab .nav-tabs .nav-link {background:var(--white-color); color:var(--black-color); border-color:var(--grey-color-90);}
+
+
+/* ======================================= Why Aicerts V1 ======================================= */
+.icon-wtih-text-card {background: var(--grey-color-90);}
+.values .card:hover .white_text {color: var(--white-color);}
+.ctabanner-content h5{color: var(--white-color);}
+.Card_Cources {border-color: rgba(0,0,0,.125);}
+.why-aircert-video p, .cta-Banner.whypage-cmn-section h3 {color: var(--white-color);} 
+.o_certi-info p {color: var(--black-color);}
+
+.corevaluebg {background:var(--grey-color-90);}
+.corevaluebg .usps_card {background: var(--white-color);}
+.corevaluebg .usps_card h5 span, .corevaluebg .usps_card h4 span {color:var(--black-color);}
+
+
+
+
+/* events page v2 */
+
+.events_card {background: var(--white-color);}
+.speakerscard {background:none;}
+.speakerscard h4, .speakerscard p, .whoweare-cnt p {color: var(--black-color);}
+.pastevent-card-cnt h4, .pastevent-card-cnt p {color: var(--white-color);}
+.eventsSpeakers .owl-nav button span, .eventsv2-tab .nav-tabs.maintabs .nav-link, .eventsv2-tab .events-subtabs .nav-tabs .nav-link {color: var(--black-color);}
+.eventspartner {background: var(--light-gray-color);}
+.eventsv2-tab .nav-tabs.maintabs .nav-link.active, .eventsv2-tab .nav-tabs.maintabs .nav-link:hover, .eventsv2-tab .events-subtabs .nav-tabs {background: var(--grey-color-90);}
+.eventsicons img {filter: invert(1);}
+
+.eventscarousel .owl-dots .owl-dot.active span, .eventscarousel .owl-dots .owl-dot span {background: var(--primary-color);}
+.eventscarousel  .owl-dots .owl-dot.active {border-color:  var(--primary-color);}
+
+
+.page-template-contactus-template .contact_list .contact_list-item .icon_text {color:#000;}
+.eventscarousel .owl-nav button span{color: var(--black-color);}
+
+.cmn-sliderdots .owl-nav button span {color: var(--black-color);}
+
+/* ======================================= Search Page V1 ======================================= */
+
+.search-filter-title, .search-filter-panel .form-check label, .sfp-title, .sfp-title:hover, .roles-searchbox input, .roles-searchbox input:focus, .search-result-title .btn {color: var(--black-color);}
+.search-listing .card {background: var(--white-color); box-shadow:rgba(149, 157, 165, 0.4) 0px 0px 20px}
+/*.search-listing .card h3 {color: var(--white-color);}*/
+.sfp-title::before {filter: none;}
+.searchbar-mainnav .form-control {border-color: var(--light-gray-color1); color: var(--black-color); background:var(--white-color); box-shadow: rgba(149, 157, 165, 0.2) 0px 0px 10px;}
+
+.mobile-search-panel .searchbar-mainnav {background:var(--light-gray-color1);}
+.btn-search-mobile {filter: invert(1);}
+
+#search-suggetions {background: var(--white-color); border-color:var(--light-gray-color1);}
+#search-suggetions .search-result-title {color: var(--black-color);}
+
+
+
+/* ======================================= Certificate Detail Page V5 ======================================= */
+
+.Learners_card  {border-color: var(--grey-color-70);}
+.indextabs .cdv5-indextabs ul li a, .cdv5-examdetail, .ExpertLeaders .card {background: var(--grey-color-90);}
+.SupportingCompanies .card h4, .SupportingCompanies .card p, .ExpertLeaders .card h4, .ExpertLeaders .card p {color: var(--black-color);}
+
+
+
+.cmn-sliderdots .owl-theme .owl-dots .owl-dot.active {border-color:var(--primary-color);}
+.cmn-sliderdots .owl-theme .owl-dots .owl-dot span {background:var(--black-color);}
+.cmn-sliderdots .owl-theme .owl-dots .owl-dot.active span {background:var(--primary-color);}
+
+.ExamDescription table tr th, .ExamDescription table tr td {background:var(--white-color); color:var(--black-color); border-color:var(--grey-color-70);}
+.ExamDescription table tr th:first-child, .ExamDescription table tr td:first-child {background:var(--grey-color-90);}
+
+
+/* ======================================= Testimonials V2 ======================================= */
+
+.tmv2-tm-small .card, .exp-card {background: var(--light-gray-color);}
+.tmv2-tm-small p, .tmv2-small-user h4 span {color: var(--black-color);}
+.exp-gform-cnt .gform-theme--foundation .gfield input.large, .exp-gform-cnt .gform-theme--foundation .gfield select.large {border:solid 1px var(--body-font-color);}
+.exp-gform-cnt .gform_fields .ginput_container textarea.textarea.small {border:solid 1px var(--body-font-color);}
+.exp-gform-cnt .gform-theme--foundation .gfield input[type="file"]::file-selector-button {color:var(--black-color);}
+.tmv2-partners.bt-1 {border-top:solid 1px var(--grey-color-70);}
+
+.post-link a {color: var(--black-color);}
+
+/* ======================================= Trademarks Page V3 ======================================= */
+
+.tm-hd-section p {color: var(--black-color); background: var(--light-gray-color); border-color: var(--grey-color-70);}
+.tm-ourtrademarks .card-ourtm {background: var(--grey-color-90);}
+.tm-ourtrademarks .tm_card_bg, .tm-ourtrademarks .tm_card {background: var(--white-color);}
+.tm-ourtrademarks .tm_card:hover {background: var(--white-color) !important;}
+.tm-ourtrademarks .tm_card h4, .tm-ourtrademarks .tm_card:hover h4, .tm-ourtrademarks .tm_card h4 a  {color: var(--black-color);}
+.ourtm-scrollable {scrollbar-color: var(--primary-color) var(--light-gray-color1);}
+.tmv3-cards .card {background: var(--grey-color-90); border-color: var(--light-gray-color1);}
+.tmv3-cards p {color: var(--black-color);}
+.exp-gform-cnt .gform-theme--framework .gform-field-label {color: var(--black-color);}
+
+/* ======================================= Careers Page V3 ======================================= */
+.values-card, .whyjoin-grids .iconwithtext {background: var(--grey-color-90);}
+.job-listing-section .nav-tabs .nav-link {background: var(--white-color);color: var(--black-color);border-color: var(--grey-color-90);}
+.testimonial-section.tm-light .card-tm p, .testimonial-section.tm-light .tm-user {color: var(--bs-white);}
+.careers-testimonial.testimonial-section.tm-light .card-tm, .testimonial-section .card-tm {border-color: #e0e0e0;}
+.careers-testimonial.testimonial-section .testimonial-description p{color: var(--black-color);}
+.underline-link{color: var(--primary-color);}
+.underline-link:hover{color: var(--black-color);}
+.WhyJoin-card {background: var(--white-color);box-shadow: -16px -9px 70px 0px rgba(0, 0, 0, 0.1);}
+.WhyJoin-card::before {filter: invert(1);opacity: 0.5;}
+.career-sec1 p {color: var(--black-color);}
+.whyjoin-grids .iconbox {background: var(--white-color);}
+
+
+
+/* =========================== Blogs Page V2 =========================== */
+
+.blogv2-cnt-large p {color: var(--black-color);}
+.card-recentblog, .card-newsletter { background: var(--light-gray-color); border:solid 1px var(--light-gray-color1);}
+.card-newsletter .form-control {border-bottom:solid 1px var(--grey-color-70);}
+
+/* =========================== Accreditation V2 =========================== */
+
+.accr-ansi-compliance, .accr-ansi-compliance-bg, .accr-ansi-standard, .accr-card-setup {background: var(--light-gray-color);}
+.accr-paragraph, .accr-ansti-title, .accr-ansti-title-para, .accr-commitment-title, .accr-commitment-paragraph, .accreditation-paragraph {color: var(--black-color);}
+.accr-event-contactus-btn p, .accr-event-btn:hover p {color: var(--white-color);}
+.accr-commitment-box, .accr-matter-border-bottom {border-color: var(--light-gray-color1); background: var(--white-color);}
+.accr-second-section-image img {background: var(--black-color); border-radius:13px;}
+.h2_happy_to_help_accr {background:none;}
+.accreditation-paragraph {background: var(--white-color);}
+.happy_to_help_content_accr h2, .happy_to_help_content_accr p {color:var(--white-color);}
+
+
+/* ======================================= Product Videos V1 ======================================= */
+
+.pv1-caro-card:hover {box-shadow: 0px 4px 24px 0px rgba(0, 0, 0, 0.20);}
+.pv1-about-cnt p, .pv1-caro-card p, .pv1-caro-card .pv1-learnmore a, .pv1-caro-card a:hover, .rv-card p, .rv-card a:hover, .rv-card a.rv-viewlink:hover, .blogv2-cnt-large h3 a:hover {color: var(--black-color);}
+.blogv2-hero-cnt {color: var(--white-color);}
+.pv1-caro-card, .rv-card, .blog-pagination .page-numbers {background: var(--grey-color-90);}
+.pv1-about-cnt p, .pv1-caro-card p, .pv1-caro-card .pv1-learnmore a, .pv1-caro-card a:hover, .rv-card p, .rv-card a:hover, .rv-card a.rv-viewlink:hover {color: var(--black-color);}
+.pv1-caro-card, .rv-card {background: var(--grey-color-90);}
+
+/* ======================================= Roadmap ======================================= */
+
+.monthly-prog ul li a.monthtitle, .roadmap-form h3 {color: var(--black-color);}
+.roadmap-sec {background: none;}
+.prog-category h2.progyear, .roadmap-sec h2.prog-cat-title, .prog-popovers-header, .prog-popovers-card, .roadmap-form {background: var(--grey-color-90);}
+.prog-popovers {background: var(--white-color); box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;}
+/* ======================================= ANAB ======================================= */
+
+table.anab_table {border:solid 1px var(--light-gray-color1); box-shadow: none;}
+table.anab_table tr td, table.anab_table tr td a:hover {color: var(--black-color);}
+table.anab_table tr td img {filter: grayscale(1) invert(1);}
+.anab-header1 h2 {color: var(--white-color);}
+table.anab_table tr th {background: var(--light-gray-color)}
+.anab-pass-protection {background: var(--white-color); color: var(--black-color);}
+
+
+/* =========================== Exam Portal =========================== */
+.Exam-Banner h1, .Exam-Banner h3, .JoinOurCertified .ctabanner-content h3 {color: var(--white-color);}
+.ExamVideoStep {background: no-repeat;}
+.why_card, .step_info, .exam_step:hover .step_info {background: var(--grey-color-90);}
+.why_card p, .step_info p {color: var(--black-color);}
+
+/* ======================================= Advisory Board ======================================= */
+
+.ab_hero_sec, .ab-team-cardin, .ab-pan-cnt, .ab-partner-card, .ab-whatcards, .ab-commitment-card, .ab-meetup-card, .ab-recog-card, .ab-recog-card .circleicon, .advisory-gform, .advisory-gform .gform-theme--foundation .gfield .gfield_select, .advisory-form-card {background: var(--grey-color-90);}
+.ab-cta-section p {color: var(--white-color);}
+.ab-team {background: url(../images/ab-team-bg-white.jpg) no-repeat center; background-size: cover; }
+.ab-plans {/*background: url(../images/ab-pan-bg-white.jpg) no-repeat center;*/ background:none; background-size: cover;}
+.ab-whatcards ul li, .ab-whyaict-cnt ul li, .advisory-gform .gform-theme--framework .gform-field-label {color: var(--black-color);}
+.ab-recog-card .circleicon {border-color: var(--white-color);}
+
+.listing-box a {color: var(--primary-color);}
+
+.page-template-advisory-board {background: url(../images/ab-pan-bg-white.jpg) repeat-y center;}
+.advisory-gform .iti--inline-dropdown .iti__dropdown-content {background: var(--light-gray-color); }
+.advisory-gform .gform-theme--foundation .gfield textarea.large {border-color: var(--body-font-color);}
+.advisory-form-card {box-shadow: 0px 0px 20px 0px #ccc;}
+
+.white_theme_hide {display: none;}  
+.black_theme_hide {display: block;}
+
+/* ======================================= Why Aicerts V2 ======================================= */
+
+section.why2-banner {background-image: url(../images/banner-why-aicert-white.webp) !important;}
+.why2-banner .video-banner-cnt h1, .why2-banner .video-banner-cnt p {color: var(--pure-black);}
+
+.WhyChoose, .ValuePropositions {background: var(--grey-color-90);}
+.mission-vision, .RBC-Card, .Processes_Card, .yc_card {background: var(--light-primary);}
+.core-value_card{background: var(--white-color);border-color:var(--grey-color-70);}
+.mv-target p{color: var(--pure-black);}
+.OurPartners_logos {padding: 1rem 0px;}
+.Processes_Card img {filter: brightness(0) saturate(100%) invert(39%) sepia(5%) saturate(358%) hue-rotate(212deg) brightness(87%) contrast(92%);}
+.AreMostValued .h2_tabs .nav-link{ background: var(--grey-color-90);border-color: var(--grey-color-70);}
+.AreMostValued .h2_tabs .nav-link.active, .AreMostValued .h2_tabs .nav-link:hover {background: var(--primary-color);color: var(--white-color);border-color: var(--primary-color);}
+.press-card{background: var(--grey-color-90);}
+
+
+
+/* media query starts */
+
+@media screen and (max-width:1199px) {
+.navbar-collapse {background:var(--white-color);}  	
+.blog-bg, .certification-page {background-size: 100%;}
+.home .navbar-light .navbar-nav .nav-link {color: var(--black-color);}
+}	
+
+@media screen and (max-width: 991px) {
+.no_overlay-header.whypage-cmn-section {background:none;}
+.why-aircert-video h1, .why-aircert-video p {color: var(--black-color);}
+.no_overlay-header.rbs-banner {background: var(--white-color);}
+.rbs-banner .overaly_conten h1, .Expert-level .card_content p, .rbs-banner .overaly_conten p {color: var(--black-color) !important;}
+.rbs-banner .overaly_conten {margin-bottom:40px;}
+.Expert-level {padding:40px 10px !important; margin-bottom:40px !important;}
+.banner-video-section {background:none;}
+.video-banner-cnt h1, .video-banner-cnt p {color: var(--black-color);}
+section.imgbanner .video-banner-cnt h1, section.imgbanner .video-banner-cnt p, .event_slider .midd-banner-slide .video_title, .event_slider .midd-banner-slide .slide-sub-tex, section.rc-banner .video-banner-cnt h2 {color: var(--black-color);}
+.BTrainer-content h5.white_text {color: var(--black-color);}	
+.btn-becometrainer {background:  var(--primary-color); color: var(--white-color);}
+
+.event_slider .main-banner-cnt {background:  var(--white-color);}
+/*section.why2-banner {background-image: url(../images/banner-why-aicert-white-mobile.webp) !important; background-position: center top !important;}*/
+
+.hackathontimer h2, .hackathontimer span {color: var(--black-color) !important;}
+
+/* ======================================= 10x Page Starts ======================================= */
+
+#tenx-page .video-banner-cnt h1, #tenx-page .video-banner-cnt h2 { color: var(--black-color) !important;}
+
+.aisaksham-banner.imgbanner .video-banner-cnt .CertiOffer, .aisaksham-banner.imgbanner .video-banner-cnt h2, .aisaksham-banner.imgbanner .video-banner-cnt p {color: var(--black-color);}
+
+}
+
+/* ======================================= 10x Page Ends ======================================= */
+
+
+@media screen and (max-width:767px) {
+.header-section {background:none;}  
+.blog-bg, .certification-page {background-size: 150%;}
+/*.home .header-section {background:#000000;}*/
+.home .header-section.sticky {background: var(--white-color);}
+.indextabs ul li a {background:var(--light-gray-color);}
+.h2_banner_content h1 {color: var(--black-color);}
+.h2_banner .owl-theme .owl-dots .owl-dot span {background: var(--black-color);}
+
+.course_accordian .accordion-button, .blog_accordian .accordion-button {background: var(--white-color); border:none; box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;}
+.course_title h6, .course_title p, .course_accordian .accordion-button:not(.collapsed) p, .blog_accordian .accordion-button {color: var(--black-color);}
+.course_accordian .accordion-button:after, .blog_accordian .accordion-button::after, .blog_accordian .accordion-button:not(.collapsed) img {filter:brightness(0);}
+.course_accordian .accordion-button:not(.collapsed), .blog_accordian .accordion-button:not(.collapsed) {background:var(--white-color);}
+.blog_accordian .accordion-button {margin-bottom:20px;}
+.h2_banner_content {border-bottom: 1px solid var(--light-gray-color1);}
+
+.aictpage .no_overlay-header {background:none;}
+.aictbanner div, .aictbanner h5 {color: var(--black-color);}
+.labsbanner h1, .labsbanner p {color: var(--black-color);}
+/*.indextabs ul li a {color: var(--white-color); background: var(--primary-color);}
+.indextabs ul li a:hover {color: var(--primary-color); background: var(--light-gray-color);}*/
+.labsbanner h3 {color: var(--black-color);}
+
+/* ======================================= Home Banner for Events ======================================= */
+.opt_banner.homeeventsbanner h2, .homeeventsbanner .homeboothpills {color: var(--black-color);}
+.homeeventsbanner .homeboothpills {border: 1px solid var(--grey-color-70);}
+/* ======================================= Home Banner for Events end ======================================= */
+
+
+
+}
+
+@media (max-width:640px) {
+.certification-cate .top_img-text h1.cmn-hd {color: var(--black-color);}
+}
+
+
+/* ======================================= AI+ Military ======================================= */
+
+.comprehensive_ai_training_inner, .military_partnership, .aiblock_title_item {background:var(--light-gray-color);}
+.comprehensive_ai_box{background:var(--white-color); border-color: #D4D4D4;}
+.market_potential_slide, .testimonial_slide_item {background:var(--white-color);}
+.market_potential_slide p, .military_partnership p, .aiblock_title_item p  {color:var(--black-color);}
+.military_partnership_item ul li:not(:last-child):after {border-color: var(--black-color);}
+.military_partnership_item ul li:hover{background:var(--white-color);}
+
+/* optimization css */
+.opt_herosection {border-bottom:solid 1px #BFC0C2;}
+.opt_herosection h2, .opt_herosection p {color:#1C1F30;}
+@media (max-width:767px) {
+	.opt_banner-cnt h1 {color:#1C1F30;}
+}
+
+/* optimization css ends */
+.gravity-page_form .ginput_container input, .gravity-page_form .ginput_container_textarea textarea {color: #000 !important;}
+
+
+
+
+@media (max-width: 767px){
+.EasyTab .d_active {color: var(--primary-color);background: var(--white-color);}
+.EasyTab .tab_drawer_heading::after {filter: brightness(0);}
+.EasyTab .tab_drawer_heading {background: transparent;}
+}
+
+/* ======================================= Toker V1 ======================================= */
+.toker-banner h4, .gs-content p {color: var(--white-color);}
+.technocard, .token-certs-card, .our-mv-card, .ATPS_Box {background: var(--grey-color-90);}
+.GovernanceStaking {background: #001f3c;}
+.advisor-card, .TYC-custom-width  {background-color: var(--grey-color-90);}
+.CertsToken {margin-top: 70px;}
+.token-certs-card::before, .token-card-box::before, .our-mv-card::before {background: var(--grey-color-70);}
+.token-card-box {background: var(--white-color);}
+.collaboration-listing ul li b {color: var(--black-color);}
+.list_points li::before {background-color: var(--black-color);}
+
+/* lead generation popup*/
+
+.leadgenpopupcta .modal-content {background: var(--white-color);}
+.leadgenpopupcta .gform_fields .ginput_container input.large {background:var(--white-color);}
+.leadgenpopupcta .gform_wrapper .gform_fields .gform-field-label {color: var(--black-color);}
+.leadgenpopupcta .btn-close {filter: invert(0);}
+
+/* QA Certification page css */
+.quality_assurance_banner h1, .quality_assurance_banner p {color: var(--black-color);}
+.iso_content_inner{background:url(../images/iso-content-img.jpg) no-repeat center center;background-size:cover;}
+.aicerts_certification_title, .aicerts_qa_getstarted_inner {background:#FDF9F0;}
+.why_choose_aicerts_certification_card {background:var(--white-color); border:1px solid  rgba(0, 0, 0, .2);}
+.our_certification_team_slider {background:#F3F3F3;}
+.aicerts__advantage{background:url(../images/aicerts-advantage-frame.jpg) no-repeat center center;background-size:cover;}
+ 
+
+/* QA Certification page css ends */
+
+
+/* Microsoft Certifications Starts */
+.ms_why_aicerts_inner, .aicerts__advantage_inner, .aicerts_microsoft_card, .what_sets_aicerts_card {background-color: #F3F3F3;}
+.flip-card:before{background: url(../images/line-steps-black.png) no-repeat center center; background-size: 40px;}
+/* Microsoft Certifications Ends */
+
+
+/* Blockchain Hackathon CSS Starts */
+.overviewcards, .EventSchedule, .overviewcards, .checkoutbox {background:var(--light-gray-color);}
+.eventtime, .dark_bg .overviewcards, .target_participants div {background: var(--light-gray-color1);}
+.EventSchedule_title, .EventSchedule, ul.awardprizelist li {border-color: var(--grey-color-70);}
+.hackathonlisting ul li b, .hackathonlisting ul li strong {color: var(--black-color);}
+.eventday img {filter: invert(1);}
+.eventday span {color: #a7a9af;}
+.resources-bg, .collaboration-bg, .resources-bg.KeyChallenges, .resources-bg.HackathonDay, .resources-bg.WhyParticipate {background-color: var(--light-gray-color);}
+/* Blockchain Hackathon CSS Ends */
+
+/* ======================================= Certification Detail V6  ======================================= */
+.aict_top-image_with-text{background-color: #FCFCFC;}
+.gray-bg{background-color:var(--grey-color-90);}
+.Floral-White-bg{background-color: var(--light-primary);}
+.step-card-cover{background: var(--light-primary);}
+.gray-bg, .Floral-White-bg, .step-card-cover{border: none;}
+.step-feature-points li::before{background-color: var(--black-color);}
+
+
+.hackathon-register .ginput_product_price, .hackathon-register input.ginput_total {color: var(--black-color) !important;}
+
+.toolsrow .toolcard {background:var(--white-color); box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.15);} 
+
+/* PPC Page */
+.ppcsection, .journeybg {background: #FDF9F0;}
+.ppcChallengesrow .ppcChallengescard {background:var(--white-color); box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);}
+.ppcChallengesrow .ppcChallengescard img, .Certificationsteps img {filter: none;}
+.comprehensive_disclaimers {background:var(--grey-color-90);}
+
+.gravity-popup_form .ts-control {border-color:var(--body-font-color);}
+
+/* ======================================= Score Page CSS Starts  ======================================= */
+section.score-banner {background-image: url(../images/score-banner-bg.jpg) !important;}
+section.score-banner .video-banner-cnt p {color: var(--black-color);}
+
+.assessment-cards {background:var(--grey-color-90);}
+.assessment-cards:hover, .adaptable-bg, .scorecta {background:var(--light-primary);}
+.adaptable_card, .revolutionize_card {background:var(--white-color);}
+.revolutionize_card {border: 1px solid var(--grey-color-70);}
+
+/* ======================================= Recertification Page CSS Starts ======================================= */
+.reattempt_cards, .reattempt_listing li, .light-primary-bg {background: var(--light-gray-color);}
+.light-primary-bg-color{background: var(--light-primary);}
+.recertiform .gfield_description {color: var(--black-color) !important;}
+.gfield_validation_message.validation_message {color:red !important;}
+/* ======================================= Recertification Page CSS Ends ======================================= */
+
+/* ======================================= ROI V1 ======================================= */
+.Consultation .white_text {color: var(--white-color);}
+.img-bg-cover.bg-gradient-overlay::before{display: none;}
+.DetailCourseCard{background: var(--white-color);}
+.ROICalculator .gform-theme--framework .gform-field-label{color: var(--black-color) !important;}
+.ROICalculator .ts-wrapper:not(.form-control):not(.form-select).single .ts-control {border-color: var(--body-font-color) !important;color: var(--black-color)!important;background-color:var(--white-color)!important;}
+
+/* ======================================= AI Score Tool Page CSS Starts ======================================= */
+
+#ai-score-tool-page .advance-ai-score-section { background-color: #F3F3F3; /*padding: 40px 0; */}
+#ai-score-tool-page .card-wrapper { background: var(--white-color); }
+#ai-score-tool-page .your-ai-score { background-color: var(--white-color); }
+#ai-score-tool-page .td { color: var(--black-color); }
+#ai-score-tool-page .ycies { background-color: var(--white-color); }
+#ai-score-tool-page .table { background-color: var(--whhite-color); }
+#ai-score-tool-page .table thead { background-color: var(--grey-color-90); }
+#ai-score-tool-page .table thead tr th { color: var(--black-color); }
+#ai-score-tool-page .table tbody tr { border-bottom: 1px solid #D9D9D9; }
+#ai-score-tool-page .table tbody tr td { color: var(--black-color); }
+#ai-score-tool-page .finput-content .fi { background-color: #F3F3F3 !important; color: #1C1F30 !important; font-weight: 400; }
+
+.cya-ai-score-container.cya-ai-score-bg {background-image: url("../images/scorev2-bg.jpg");}
+.scorev2card {background: var(--light-primary);}
+
+/* ======================================= AI Score Tool Page CSS Ends ======================================= */
+
+/* ======================================= AI Score Tool Form Page CSS Starts ======================================= */
+
+#ai-score-self-assessment-form .question-cards .card-item  .qcard-content { background: var(--white-color); }
+#ai-score-self-assessment-form .question-cards .card-item .qcard-header { background: var(--theme_white-grey-90, #F3F3F3); }
+#ai-score-self-assessment-form .question-cards .card-item  .qcard-content form label { color: var(--darkgrey-color); }
+#ai-score-self-assessment-form .your-ai-score { background-color: var(--white-color); }
+#ai-score-self-assessment-form .You-credit-in-ecellent-sape { background-color: #FDF9F0; padding: 70px 0; }
+#ai-score-self-assessment-form .You-credit-in-ecellent-sape .right-content-wrapper h1 { color: var(--darkgrey-color); }
+
+/* ======================================= AI Score Tool Form Page CSS Ends ======================================= */
+
+  
+/* ======================================= Find A Training Partner Updated Ends ======================================= */
+.select-option select{ box-shadow: 4px 4px 10px 0px #DDD;}
+.select-option .form-label{color: #5B5A5F;}
+.PartnerList .accordion-item{background: var(--grey-color-90);border-color:#BFC0C2;}
+.PartnerList .accordion-button img {filter: invert(0);}
+
+
+/* ======================================= 10x Page Starts ======================================= */
+
+section.tenx-banner { background: linear-gradient(270deg, rgba(0, 0, 0, 0.00) 0.96%, rgba(0, 0, 0, 0.90) 62.58%, rgba(0, 0, 0, 0.60) 98.42%), url(../images/tenx-banner-bg-dark.png) no-repeat center center / cover !important;}
+#tenx-page .tenx-career { background: var(--light-primary); }
+#tenx-page .tenx-growth-revolution .main-wrapper .feature { background: #F3F3F3; border: 1px solid #BFC0C2; }
+#tenx-page .tenx-career-impact .right-wrapper .card-container {
+  background: var(--white-color);
+}
+#tenx-page .tenx-career-impact .left-wrapper h4 { color: var(--black-color);}
+#tenx-page .tenx-career-impact .container-wrapper .content-wrapper { background-color: var(--white-color); }
+#tenx-page .tenx-career-impact .right-wrapper {background-color: #FDF9F0; }
+#tenx-page .tenx-career-impact .container-wrapper .content-wrapper p { color: var(--black-color);}
+#tenx-page .tenx-career-impact .container { background: #F3F3F3; border: 1px solid #BFC0C2; box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); }
+/* ======================================= 10x Page Ends ======================================= */
+/* detail page new cards start */
+.sscards {background: var(--light-gray-color);}
+
+/* detail page new cards ends */
+
+/* New Linkedin Section Start */
+.linkedintm-card, .viewpostbtn {background: var(--white-color);}
+/* New Linkedin Section End */
+
+/* ======================================= Certification Detail 10X Growth Section Start ======================================= */
+.MD-content ul li{color: (var(--black-color));}
+.MD-content ul li::before{background: var(--black-color);}
+.icon_with_text-card {background: var(--light-gray-color);}
+.icon_with_text-card img{filter: brightness(0) saturate(100%) invert(59%) sepia(67%) saturate(409%) hue-rotate(8deg) brightness(98%) contrast(97%);}
+/* ======================================= Certification Detail 10X Growth Section End======================================= */
+
+
+.fatp-listing ul li {background: var(--white-color);}
+.fatp-listing ul li a {color: var(--black-color); background: var(--white-color);}
+#partner-accordion p {color: var(--black-color);}
+.gform-theme--foundation .gfield input[type="file"]::file-selector-button {color: var(--black-color);}
+
+/*.custom-audio-player {background: var(--grey-color-90);}*/
+.ROICalculator .gform_confirmation_message .training-card {background: #FDF9F0;}
+
+/* ======================================= Certification Detail V6 ======================================= */
+.edcardsmain .edcardcol, .skillspills li, .cd6icons, .cdv6-schedulecard h4 {background:var(--grey-color-90);}
+.Overviewrow div:first-child {background:var(--grey-color-90); color: var(--black-color);}
+.Overviewrow div:last-child {border-color:var(--grey-color-90);}
+.cd6icons img {filter: invert(1);}
+.cdv6-cformat {border-top: solid 1px var(--grey-color-70); border-bottom: solid 1px var(--grey-color-70);}
+
+.is-sticky {background: var(--white-color);}
+
+/* ======================================= Certification Detail V6 end ======================================= */
+
+.post-navigation a:hover, a.cdv6-showMore:hover, .readmore1-btn:hover {color: var(--black-color);}
+.blogsidebarform {background:var(--light-gray-color);  border: solid 1px var(--light-gray-color1);}
+
+/* ======================================= ATP Page ======================================= */
+.RichText {background-color: var(--light-gray-color);}
+.RichTextContent p, .atp-img-content ul li{color:var(--black-color);}
+.atp-img-content ul li::before{background:var(--black-color);}
+.BBCard{background: var(--light-primary);}
+.help-point li{color: var(--black-color);}
+.FormATP{background: var(--grey-color-90);box-shadow:0px 0px 20px 0px #ccc;}
+
+/* ======================================= Publications Detail Page Starts ======================================= */
+.puntablebox {background:var(--grey-color-90);}
+.pub-summary:after {background: linear-gradient(180deg, rgba(255, 255, 255, 0.00) -19.6%, #fff 62.86%);}
+.pub-summary, .pub-container {border-color:#cdc5c5;}
+
+.atpicons img {filter:invert(85%) sepia(47%) saturate(300%) hue-rotate(166deg) brightness(100%) contrast(100%);}
+
+/* ======================================= Roadmap V2 ======================================= */
+.UCCard, .LCCard, .CCCard {background: var(--light-primary);border-color: var(--primary-color);}
+.rCertiCard a {color: var(--pure-black);background: var(--white-color);}
+.Qcard {color: var(--pure-black);background: var(--white-color);}
+.RoardCard h2{background: #cfa9351c;}
+@media (max-width: 991.5px){
+  .rCertiWrapper, .RoardCard h2{background: var(--light-primary);}
+  .UCCard, .LCCard, .CCCard{background: transparent;}
+}
+
+/* ======================================= Affiliate V1 ======================================= */
+.BWStrok { stroke: var(--pure-black); }
+.BWFill { fill:var(--pure-black); }
+.AffiliateCover{background:var(--grey-color-90);padding: 75px 0px;}
+.WhyACard {position: relative;z-index: 1;border: none;background: var(--white-color);}
+.WhyACard.h-100.text-center::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    padding: 2px; /* Thickness of border */
+    background: linear-gradient(270deg, #CFA935 0%, #FAF59E 48.9%, #CFA935 99.8%);
+    border-radius: 10px;
+    z-index: -1;
+    mask: 
+    linear-gradient(#fff 0 0) content-box, 
+    linear-gradient(#fff 0 0);
+    mask-composite: exclude;
+    -webkit-mask-composite: destination-out;
+}
+.AHPoints ul li::before {background:var(--pure-black);}
+.APCard{ background:var(--light-primary);border:none;}
+.AffiliatePartner .modal-content { background: var(--white-color); }
+.HIcons img {filter: none;}
+
+/* ======================================= Adivosry Board V1 ======================================= */
+.ABM_Icon::before{background: #FDFDFD;}
+.ABM_Icon img { filter: invert(0); }
+.BMRContent {background: #FDF9F0;}
+.BMR_Details ul li::before{background: var(--black-color);}
+.GPCard, .CSIcon{background: var(--white-color);}
+.CommitmentStru { background: #F3F3F3;}
+.CSIcon img { filter: invert(0); }
+.CSCard-Info {background: var(--white-color);border-color:#BFC0C2;}
+.BenefitsAdvisors {background: #FDF9F0;}
+.ABCard{background: #FDFDFD;}
+.ABIcon{background: var(--white-color);}
+.ABIcon img{filter: invert(0);}
+
+/* new search page css start */
+.post-type-tabs {background: var(--light-primary);}
+.post-type-tabs .post-type-tab {background: var(--light-primary);}
+.post-type-tabs .post-type-tab.active {background: var(--white-color); color:var(--pure-black); box-shadow: 3px 5px 14px 0px rgba(0, 0, 0, 0.25);}
+.searchtitlebg {background: var(--grey-color-90);}
+/* new search page css end */
+
+.searchcard-btngroup a:hover {color: var(--pure-black);}
+/* ======================================= Adivosry Board V2 ======================================= */
+.MemberInfo p {color:var(--black-color);}
+.custom-nav .OwlArrow{color: var(--black-color);}
+.TheyBring, .WhyTheyJoin, .Ad-HocConsultations { background: var(--light-primary); }
+.BringCard {background: var(--white-color);border-color: #E2E2E2;}
+.BringIcon {background: var(--light-primary);border-color: transparent;}
+.TheyJoinCard{background: var(--white-color);}
+.YourExpertise{background: var(--grey-color-90);}
+
+
+/* ======================================= Advisior Info Page ======================================= */
+.DiscoverMembers { background: var(--light-primary);}
+.joiningAdvisoryBoard { background: #F3F3F3; padding: 30px 0px; border-radius: 10px; }
+
+/* ======================================= New Home V4 ======================================= */
+.HomeSlideshow {background: linear-gradient(98deg, #FFF 36.58%, #CCC 113.56%);}
+.Subscribe{background:var(--light-primary);}
+.MyCertiCard{ background: radial-gradient(126.03% 138.68% at 97.96% 1.84%, #FDF9F0 37.5%, #FFF 100%);border-color:#FFCC30;}
+.h4_partners_logo{background: var(--light-gray-color);border: none;}
+.h4_happy_to_help { background: var(--light-primary); }
+.h4_happy_to_help .happy_to_help_content h2, .h4_happy_to_help .happy_to_help_content p { color: var(--pure-black); }
+.h4_happy_to_help { background: linear-gradient(45deg, var(--light-primary) 60%, var(--white-color) 50%) !important;}
+.h4_blog_resource .accordion-body a:hover {color: var(--white-color) !important;}
+.h4_blog_resource .h2_blog_resource_tabs {box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;padding: 15px 20px;}
+.h2_blog_resource_tabs .nav-link{background:var(--white-color);}
+.h4_blog_resource{border-bottom:none;}
+.h4_aicerts_vbanner {background: transparent;}
+.h4_aicerts_lab {background: var(--light-gray-color);border-bottom: none;}
+.h4_why_ai_certs {background: rgba(253, 249, 240, 0.80) !important;}
+.h4_why_ai_certs .h2_why_ai_certs_box .h2_why_innerCard { border-radius: 10px; border: 1px solid var(--new-golden-grad, #FFCC30); background: radial-gradient(126.03% 138.68% at 97.96% 1.84%, #FDF9F0 37.5%, #FFF 100%); box-shadow: 0px 4px 14px 0px rgba(0, 0, 0, 0.25); padding: 30px; height: 100%; }
+.h4_why_ai_certs .h2_why_ai_certs_box h4, .h4_why_ai_certs .h2_why_ai_certs_box p {color: var(--black-color);}
+.h4_why_ai_certs .h2_why_ai_certs_box img{filter: brightness(0) saturate(100%) invert(69%) sepia(74%) saturate(437%) hue-rotate(2deg) brightness(89%) contrast(84%);}
+.h4_why_ai_certs .owl-carousel .owl-stage-outer{padding: 20px;}
+.h4_why_ai_certs .h2_why_ai_certs_box { background-color: transparent; padding: 15px; border-radius: 0; }
+.h4_why_ai_certs .owl-carousel .owl-stage-outer .owl-item {margin-right: 0px !important;}
+.h4_happy_to_help .happy_to_help_wrap::before {background: linear-gradient(143deg, var(--light-primary) 50%, var(--white-color) 50%) !important;}
+@media (max-width:767.5px) {
+.h4_why_ai_certs .owl-carousel .owl-stage-outer .owl-item {margin-right: 20px !important;}
+.h4_why_ai_certs .owl-carousel .owl-stage-outer{padding: 0px;}
+
+}
+
+/* ======================================= 
+New Home UI Bug Fixed 
+======================================= */
+.h4_blog_resource .accordion-body .h2_blog_resource_box a:hover, .home_version2 .h2_partners_logo .primary_color {color: var(--primary-color) !important;}
+
+/* ======================================= Vendor Page ======================================= */
+.white_theme + .hline {background: var(--pure-black);}
+.YCPath {border-color: #BFC0C2;background: var(--grey-color-90);}
+.YCStep {border-color:#BFC0C2;background: #CFA935;}
+.PartnerWithAICERTs {background: var(--grey-color-90);}
+.BetterIconText{border-color: #BFC0C2;}
+@media (max-width:992.5px){.banner-out-hide{display: none;}}
+@media (min-width:991.5px) {.only_mobile{display: none;}}
+
+/* ======================================= About US V3 ======================================= */
+.aboutv3-banner.overlay-linear-gradient::before{background: linear-gradient(90deg, #FFF 49.9%, rgba(255, 255, 255, 0.00) 78.68%);}
+.aboutv3-banner .video-banner-cnt h1, .aboutv3-banner .video-banner-cnt p { color: var(--black-color); }
+.AboutMV{background-color: var(--grey-color-90);}
+.MVContent{background-color: var(--white-color);}
+.WWS{background: var(--white-color);border-color:#BFC0C2;}
+.WWS img{filter: brightness(0);}
+.StoriesView{border-color:#CDCDCD;}
+.StoriesView .btn-link{color:var(--pure-black);}
+.scan_to_download{border-color: var(--primary-color);background-color:var(--white-color);}
+.h2_blog_resource_tabs .nav-link{background:var(--white-color);}
+
+/* ======================================= Vendor Alignment Global Page ======================================= */
+.ShadowCardGHover {background: var(--white-color);border-color: var(--grey-color-70);}
+.ShadowCardGHover:hover {background-color: var(--light-primary);}
+.TechParCard{background: var(--white-color);border-color:#BFC0C2;}
+.EntParBen{background: linear-gradient(322deg, #FDF9F0 11.54%, var(--white-color) 74.36%);box-shadow: 0px 11px 24px 0px rgba(0, 0, 0, 0.25);border:none;}
+.TestimonialsCard {background: #F3F3F3;}
+.TestimonialContent p{color: #413D45;}
+.CustomerContent {background: var(--white-color);}
+.CustomerInfo h6{color: #413D45;}
+.CustomerInfo h5 {color: #67646A;}
+.RealToolsMaster {background: #F7F7F7;}
+.Certifications{border-color:#A9A7B0;}
+
+/* ======================================= GTIA Page ======================================= */
+.gtia-banner::before{background: linear-gradient(130deg, var(--light-primary) 50%, transparent 50%);}
+.gtia-banner .video-banner-cnt p{color: var(--black-color);}
+.PointList li::before{background:var(--black-color);}
+.FYBest{background-color: var(--white-color);}
+.FYBest:hover {background: radial-gradient(126.03% 138.68% at 97.96% 1.84%, #FDF9F0 37.5%, #FFF 100%);border-color: #FFCC30;}
+
+/* ======================================= About US VV ======================================= */
+.RealCard{border-color: var(--primary-color);background: var(--white-color)}
+.customcourses-card {background: var(--light-primary);}
+
+.vendorsection .Certifications {background:#fff;}
+
+
+/* ======================================= AI-Saksham ======================================= */
+.TFC, .sakshmpointcard, .JTMFlex{background: var(--white-color);}
+.AboutMissionAI-Saksham{background-color: #DDF3FF;}
+.UMSRow .UMSColorCard:nth-child(odd) .UMCard {border-color: var(--primary-color);background: #FFF2EA;}
+.UMSRow .UMSColorCard:nth-child(even) .UMCard {border-color: #34A853;background: #F0FDF4;}
+.UMCard h3{background:var(--white-color);border-color:#BFC0C2;}
+.JointheMission{background-color: var(--grey-color-90);}
+/* role based section with arrow */
+
+.subtab-slider-wrapper .subtab-scroll-left, .subtab-slider-wrapper .subtab-scroll-right {color: #000;}

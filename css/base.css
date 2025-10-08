@@ -1,0 +1,256 @@
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/montserrat/v29/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+:root {
+  --primary-color: #CFA935;
+  --secondary-color: #CFA935;
+  --body-font-color: #A9A7B0;
+  --light-gray-color: #F3F4F6;
+  --light-gray-color1: #e4e4e4;
+  --black-color: #1C1F30;
+  --black-color-70: #2A2E36;
+  --grey-color-70: #BFC0C2;
+  --grey-color-90: #F3F3F3;
+  --white-color: #ffffff;
+  --darkgrey-color: #171A24;
+  --hover-color: #BA982F;
+  --pure-black: #000000;
+  --light-primary: #FDF9F0;
+
+}
+
+* { box-sizing: border-box; }
+html, body, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, header, footer, section, aside, nav, article, figure, address, audio, video { background: transparent; border: 0; margin: 0; padding: 0; outline: 0; list-style-type:none; }
+html { min-height: 100%; position: relative; scroll-behavior: smooth; }
+body { font-family: 'Montserrat', sans-serif; font-size: 18px; color: var(--body-font-color); font-weight: 500; text-decoration: none; overflow-x: hidden; background: #000; }
+input, select, textarea, button { font-family: 'Montserrat', sans-serif; }
+h1, h2, h3, h4, h5, h6 { margin-bottom: 15px; font-weight: 600; color: var(--white-color); line-height: 1.3 !important;}
+
+h1 {font-size: 48px; font-weight: 700;}
+h2 {font-size: 32px; font-weight: 700;}
+h3 {font-size: 24px;}
+h4 {font-size: 20px;}
+h5 {font-size: 18px;}
+h6 {font-size: 16px;}
+
+img { border: none; outline: none; }
+a { color: var(--primary-color); text-decoration: none; outline: none; transition: all 0.5s ease 0s; -ms-transition: all 0.5s ease 0s; -moz-transition: all 0.5s ease 0s; -o-transition: all 0.5s ease 0s; -webkit-transition: all 0.5s ease 0s; }
+a:hover { color: var(--black-color); }
+.accordion-button:focus { box-shadow: none; border: none; }
+.btn {text-align: center; height: 44px; line-height: 42px; padding: 0 15px; min-width: 150px; border-radius: 0px; font-weight: 600;}
+.btn-small { height: 32px; line-height: 30px; padding: 0 15px; min-width: 150px; }
+.btn-icon { height: 56px; line-height: 30px; padding: 0 15px; min-width: auto; }
+.btn-primary { background: var(--primary-color); border-color: var(--primary-color); font-weight: 600; }
+.btn-primary:hover, .btn-check:focus+.btn-primary, .btn-primary:focus, .btn-primary:active:focus { background: var(--black-color); border-color: var(--black-color); box-shadow: none; }
+.btn-secondary { background: var(--black-color); border-color: var(--black-color); font-weight: 600; }
+.btn-lg {height: 60px; line-height: 60px; font-size: 1rem; padding: 0 24px; margin-bottom: 30px;}
+.btn-secondary:hover, .btn-check:focus+.btn-secondary, .btn-secondary:focus, .btn-secondary:active:focus { background: transparent; border-color: var(--black-color); box-shadow: none; color: var(--black-color); }
+.btn-tertiary { background: var(--pure-black); border-color: var(--pure-black); font-weight: 600; color: var(--primary-color);}
+.btn-tertiary:hover, .btn-check:focus+.btn-tertiary, .btn-tertiary:focus, .btn-tertiary:active:focus { background: var(--white-color); border-color: var(--white-color); box-shadow: none;  color: var(--primary-color);}
+.btn-outline { background: var(--white-color); color: var(--primary-color); }
+.btn-outline:hover { background: var(--primary-color); border-color: var(--primary-color); color: var(--white-color); }
+.btn-outline-dark { background: transparent; border-color: var(--primary-color); color: var(--primary-color); }
+.btn-outline-dark:hover { background: var(--primary-color); border-color: var(--primary-color); color: var(--white-color); }
+.btn-link {color: var(--primary-color);text-decoration: none;}
+.btn-link:hover{color: var(--white-color);}
+.btn-primary-outline {color: var(--primary-color);border-color: var(--primary-color); color: var(--primary-color);}
+.btn-primary-outline:hover{background: var(--primary-color);color:var(--white-color);border-color:var(--primary-color);}
+.link-primary {color: var(--primary-color);} 
+.link-primary:hover {background: var(--primary-color);color:var(--white-color);border-color:var(--primary-color);} 
+.btn-primary-white {background:  var(--white-color);}
+.btn-primary-white:hover {background: var(--pure-black);color:  var(--white-color);}
+.link-primary:focus{
+  color: var(--primary-color);
+  box-shadow: none;
+}
+
+.btn-black{
+  padding: 16px 24px;
+  background-color: var(--pure-black);
+  border: 2px solid var(--pure-black);
+  color: var(--primary-color);
+  font-size: 16px;
+font-weight: 600;
+height: auto;
+    line-height: 1;
+}
+.btn-black:hover {
+  color: var(--pure-black);
+  background-color: var(--white-color);
+  border-color: var(--white-color);
+}
+.btn-white {
+  padding: 16px 24px;
+  border: 2px solid var(--white-color);
+  color: var(--pure-black);
+  font-size: 16px;
+  font-weight: 600;
+  height: auto;
+  line-height: 1.3;
+  background-color: var(--white-color);
+}
+
+
+p { margin-bottom: 20px; font-size: 18px; line-height:26px; }
+
+.btn-outline-primary {color:var(--primary-color); border-color:var(--primary-color);}
+.btn-outline-primary:hover {background: var(--primary-color); border-color:var(--primary-color);}
+
+
+.accordion-item{padding:15px}
+.accordion-item:first-of-type{border-top-left-radius:12px; border-top-right-radius:12px;}
+.accordion-item:last-of-type{border-bottom-right-radius:12px; border-bottom-left-radius:12px;}
+.accordion-button:not(.collapsed) { background: var(--white-color); color: var(--body-font-color); box-shadow: none; }
+.accordion-button:not(.collapsed)::after, .accordion-button::after { background-image: url(../images/accordion-arr.svg); }
+/*.accordion-button {flex-direction: column; align-items: flex-start; }*/
+.accordion-button {align-items: center; justify-content: space-between;}
+.accordion-button:hover { background: rgba(212,171,76,.1); border-radius: 12px;}
+.accordion-item:first-of-type .accordion-button:hover {border-top-left-radius:12px; border-top-right-radius:12px;}
+.accordion-item:last-of-type .accordion-button:hover {border-bottom-right-radius:12px; border-bottom-left-radius:12px;}
+.accordion-button:after { position: absolute; top: 25px; right: 20px; }
+.accordion-button{ font-size: 14px; font-weight: 500;}
+.accordion-button span { font-size: 20px; font-weight: 500; display: block; margin-bottom: 5px; color: var(--black-color); }
+.accordion-button .accordion-btn {display: block; margin-right:40px; }
+.accordion-button span .career-ic {padding-right: 20px; }
+select {background-image: url(../images/accordion-arr.svg); background-position:calc(100% - 15px) 22px, calc(100% - 15px) 22px, 100% 0; background-size: 1rem, 1rem; background-repeat: no-repeat; -webkit-appearance: none; -moz-appearance: none;}
+
+.cf7mls_next.action-button {
+    background: var(--primary-color) !important;
+    border-color: var(--primary-color) !important;
+    font-weight: 600 !important;
+}
+
+  .btn-primary:hover, .btn-check:focus+.btn-primary, .btn-primary:focus, .btn-primary:active:focus
+   {
+    background: var(--hover-color);
+    border-color: var(--hover-color);
+    box-shadow: none;
+    color: var(--white-color);
+}
+
+.ftr-newsletter form .gform_fields .gfield--type-turnstile .ginput_container:before {
+  display: none;
+}
+
+.btn-check:focus+.btn, .btn:focus {box-shadow:none;}
+.form-control:focus {box-shadow:none;}
+.z-n1 {z-index: 1;}
+.z-n2 {z-index: 2;}
+.z-n3 {z-index: 3;}
+.z-n4 {z-index: 4;}
+.z-n5 {z-index: 5;}
+
+.top-header-blank{margin-top: 80px;}
+.fw-medium {font-weight: 500 !important;}
+.fw-semibold {font-weight: 600 !important;}
+.border-radius10{border-radius: 10px;}
+
+
+.fw-medium {font-weight: 500!important}
+.fw-semibold {font-weight: 600!important}
+.Platinum-Color{background: #E5E4E2;}
+.Gold-Color{background: #ebd9a4;}
+.Silver-Color{background: #C0C0C0;}
+
+.font14 { font-size: 14px; }
+.font16 { font-size: 16px; }
+.font18 { font-size: 18px; }
+.font20 { font-size: 20px; }
+.font32 { font-size: 24px; }
+.font48 { font-size: 24px; }
+
+.font400 { font-weight: 400; }
+.font500 { font-weight: 500; }
+.font600 { font-weight: 600; }
+.font700 { font-weight: 700; }
+
+.light-blue-bg{background-color: #DDF3FF;}
+.grey-color-90{background-color: var(--grey-color-90);}
