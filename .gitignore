@@ -1,0 +1,17 @@
+# Node & build artifacts
+node_modules/
+dist/
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Env & config
+.env
+*.zip
+*.tar.gz
+
+# IDE/editor folders
+.vscode/
+.idea/
