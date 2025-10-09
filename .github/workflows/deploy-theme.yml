@@ -13,10 +13,12 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
+    - name: List repo contents (debug)
+      run: ls -R
+
     - name: Create theme zip
       run: |
-        cd wp-content/themes
-        zip -r aicerts.zip aicerts -x "*.git*" "*.github*" # exclude git files
+        zip -r aicerts.zip aicerts -x "*.git*" "*.github*"
 
     - name: Upload theme via SFTP
       uses: appleboy/scp-action@v0.1.4
@@ -24,7 +26,7 @@ jobs:
         host: 10.20.0.39
         username: azureadmin
         key: ${{ secrets.SSH_PRIVATE_KEY }}
-        source: wp-content/themes/aicerts.zip
+        source: aicerts.zip
         target: /var/www/html/qa_aicerts_ai/wp-content/themes/
 
     - name: Unzip theme on server
