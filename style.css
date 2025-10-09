@@ -2,7 +2,7 @@
 Theme Name: AICERTs
 Author: HTML WP
 Description: Theme AICERTs created by HTML WP.you can change this after theme creation.
-Version: 1.0
+Version: 1.1
 */
 #post-2411 header { display: none;}
 
@@ -14,6 +14,8 @@ Version: 1.0
     margin: 0;
     padding: 0;
 }
+
+
 
 .main-menu > li {
     position: relative;

@@ -3,7 +3,7 @@ name: Deploy WordPress Theme via SFTP
 on:
   push:
     branches:
-      - main  # Change this if you deploy from a different branch
+      - main  # or your deployment branch
 
 jobs:
   deploy:
@@ -18,7 +18,7 @@ jobs:
 
     - name: Create theme zip
       run: |
-        zip -r AICERTs.zip AICERTs -x "*.git*" "*.github*" "*.zip"
+        zip -r aicerts.zip aicerts -x "*.git*" "*.github*" "*.zip"
 
     - name: Upload theme via SFTP
       uses: appleboy/scp-action@v0.1.4
@@ -26,7 +26,7 @@ jobs:
         host: 10.20.0.39
         username: azureadmin
         key: ${{ secrets.SSH_PRIVATE_KEY }}
-        source: AICERTs.zip
+        source: aicerts.zip
         target: /var/www/html/qa_aicerts_ai/wp-content/themes/
 
     - name: Unzip theme on server
@@ -37,7 +37,7 @@ jobs:
         key: ${{ secrets.SSH_PRIVATE_KEY }}
         script: |
           cd /var/www/html/qa_aicerts_ai/wp-content/themes/
-          rm -rf AICERTs_old
-          mv AICERTs AICERTs_old || true
-          unzip -o AICERTs.zip
-          rm AICERTs.zip
+          rm -rf aicerts_old
+          mv aicerts aicerts_old || true
+          unzip -o aicerts.zip
+          rm aicerts.zip
