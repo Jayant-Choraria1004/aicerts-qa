@@ -1,0 +1,41 @@
+name: Deploy WordPress Theme via SFTP
+
+on:
+  push:
+    branches:
+      - main  # or your deployment branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Create theme zip
+      run: |
+        cd wp-content/themes
+        zip -r aicerts.zip aicerts -x "*.git*" "*.github*" # exclude git files
+
+    - name: Upload theme via SFTP
+      uses: appleboy/scp-action@v0.1.4
+      with:
+        host: 10.20.0.39
+        username: azureadmin
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        source: wp-content/themes/aicerts.zip
+        target: /var/www/html/qa_aicerts_ai/wp-content/themes/
+
+    - name: Unzip theme on server
+      uses: appleboy/ssh-action@v0.1.10
+      with:
+        host: 10.20.0.39
+        username: azureadmin
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        script: |
+          cd /var/www/html/qa_aicerts_ai/wp-content/themes/
+          rm -rf aicerts_old
+          mv aicerts aicerts_old || true
+          unzip -o aicerts.zip
+          rm aicerts.zip
